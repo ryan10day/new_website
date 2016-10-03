@@ -17,6 +17,8 @@ Fall 2016
 
 [ECE 310 Slides](/assets/files/HKNECE310ReviewSession2FA16.pdf)
 
+[ECE 313 Slides](/assets/files/HKNECE313ReviewSession1FA16.pdf)
+
 Spring 2016
 -----------
 
