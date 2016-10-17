@@ -19,6 +19,14 @@ Fall 2016
 
 [ECE 313 Slides](/assets/files/HKNECE313ReviewSession1FA16.pdf)
 
+###Second midterm review session:
+
+[ECE 120 Slides](/assets/files/HKNECE120ReviewSession2FA16.pdf)
+
+[ECE 210 Slides](/assets/files/HKNECE210ReviewSession2FA16.pdf)
+
+[ECE 310 Slides](/assets/files/HKNECE310ReviewSession4FA16.pdf)
+
 Spring 2016
 -----------
 
