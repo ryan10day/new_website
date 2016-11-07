@@ -31,6 +31,16 @@ Fall 2016
 
 [ECE 310 Slides - Quiz 5](/assets/files/HKNECE310ReviewSession5FA16.pdf)
 
+[ECE 313 Slides](/assets/files/HKNECE313ReviewSession2FA16.pdf)
+
+###Third midterm review session:
+
+[ECE 110 Slides](/assets/files/HKNECE110ReviewSession3FA16.pdf)
+
+[ECE 110 Worksheet](/assets/files/HKNECE110ReviewSession3WorksheetFA16.pdf)
+
+[ECE 110 Worksheet](/assets/files/HKNECE110ReviewSession3WorksheetSolutionsFA16.pdf)
+
 
 
 Spring 2016
