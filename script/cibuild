@@ -1,9 +1,6 @@
 #!/usr/bin/env bash
 set -e # halt script on error
 
-git config --global user.email "hkn-tech@illinois.edu"
-git config --global user.name "HKN Technology Director"
-
 bundle exec jekyll build
 mv _site ../out
 #c bundle exec htmlproof ./_site
