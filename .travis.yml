@@ -8,8 +8,6 @@ script:
 env:
   global:
   - NOKOGIRI_USE_SYSTEM_LIBRARIES=true
-  - user.name = "HKN"
-  - user.e-mail "hkn-tech@illinois.edu"
 before_install:
 - openssl aes-256-cbc -K $encrypted_5722a4a44b23_key -iv $encrypted_5722a4a44b23_iv
   -in .deploy_key.enc -out .deploy_key -d
