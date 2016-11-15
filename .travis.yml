@@ -4,6 +4,8 @@ rvm:
 before_script:
 - chmod +x ./script/cibuild
 script: 
+- git config --global user.email "hkn-tech@illinois.edu"
+- git config --global user.name "HKN Technology Director"
 - bundle exec rake deploy
 env:
   global:
