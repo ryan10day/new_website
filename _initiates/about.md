@@ -1,5 +1,5 @@
 ---
-title: Initiates 
+title: Initiates  
 ---
 
 Welcome to the HKN Initiates Page! Important Information will be posted here as it is created for the current semester’s initiate class. If you have any questions about any of the content here please email Alec Wasowicz, the Director of Initiate Affairs (contact information on the [Officers Page](/about#officers)).
