@@ -45,7 +45,7 @@ Fall 2016
 
 [ECE 210 Slides](/assets/files/HKNECE210ReviewSession3FA16.pdf)
 
-[ECE 310 Slides - Quiz 6](/assets/files/HKNECE310ReviewSession6FA.pdf)
+[ECE 310 Slides - Quiz 6](/assets/files/HKNECE310ReviewSession6FA16.pdf)
 
 
 Spring 2016
