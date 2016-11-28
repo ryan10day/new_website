@@ -10,7 +10,7 @@ Slides From Initiation Information Session
 
 Initiate Office Hour Survey
 ---------------------------
-Fill out this survey after your office hours this week [here](https://goo.gl/forms/7VT8qqNrQLXQ1BQU2)
+Fill out this survey after your office hours this week [here](https://goo.gl/forms/K1M7psgqb8tRkSyh1)
 Note, the survey changes weekly!
 
 Initiate Olympics
