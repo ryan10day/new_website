@@ -47,6 +47,12 @@ Fall 2016
 
 [ECE 310 Slides - Quiz 6](/assets/files/HKNECE310ReviewSession6FA16.pdf)
 
+###Final exam review session:
+
+[ECE 110 Slides](/assets/files/HKNECE110ReviewSessionFinalFA16.pdf)
+
+[ECE 210 Slides](/assets/files/HKNECE210ReviewSessionFinalFA16.pdf)
+
 
 Spring 2016
 -----------
