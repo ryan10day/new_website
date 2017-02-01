@@ -8,10 +8,9 @@ Slides From Initiation Information Session
 ---
 [HKN Information Session Slides](/assets/files/HKNInfoSessionFA16.pdf)
 
-Initiate Office Hour Survey
+Initiate Office Hour Selfies
 ---------------------------
-Fill out this survey after your office hours each week [here](https://goo.gl/forms/K1M7psgqb8tRkSyh1)
-Note, the survey changes weekly!
+Be sure to take your selfie during your office hours and share it via the DropBox link in the office!
 
 Initiate Olympics
 ---
@@ -23,18 +22,18 @@ Soon, former initiates might come up looking for for their membership certificat
 
 Points Spreadsheet
 ---
-Check out your point totals [over here](https://docs.google.com/spreadsheets/d/18SS-g30jM4bz6l07cKIqzJaaGHFN2PiI-SAu-WJKgsk/edit#gid=0)!
+Check out your point totals [over here](https://docs.google.com/spreadsheets/d/1oXljo0vW4aKDYPTuPgeLHTRbvQsRguwb72iqlBfmJ-g/edit#gid=0)!
 
 If they are not up to date, be sure to e-mail Molly!
 
 Committee Assignments
 ---------------------
-Find your assigned committee [here](https://docs.google.com/a/illinois.edu/spreadsheets/d/1UJ-sT4nVzCKlvLKBvf_ESmxN1w1P7uW3o2NNbOdPDtY/edit?usp=sharing)
+Find your assigned committee [here](https://docs.google.com/spreadsheets/d/1ZGN5ynhlGnaO3fKA7R2H8F6POXHC1h5xehamPig1IbM/edit?usp=sharing)
 
 Remember, you should be working with your assigned committee throughout the semester!
 
 Office Hours Schedule
 ---------------------
-HKN initiate office hours schedule located [here](https://docs.google.com/a/illinois.edu/spreadsheets/d/1fAqk5L3qYzgL7RoGiDIrFIKoyVcHjhLqKxnNVyyToaM/edit?usp=sharing)
+HKN initiate office hours schedule located [here](https://docs.google.com/a/illinois.edu/spreadsheets/d/1Mf_MQSe5wRf3kgCtgYbvjfT61S92MMsKHJiwhciaYFU/edit?usp=sharing)
 
 Remember, office hours are every week.
