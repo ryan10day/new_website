@@ -10,7 +10,7 @@ Slides From Initiation Information Session
 
 Initiate Office Hour Selfies
 ---------------------------
-Be sure to take your selfie during your office hours and share it via the DropBox link in the office!
+Be sure to take your selfie during your office hours and share it via the DropBox link in the office! 
 
 Initiate Olympics
 ---
