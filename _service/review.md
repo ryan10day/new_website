@@ -7,11 +7,20 @@ Spring 2017
 
 ###First midterm review session:
 
+[ECE 110 Slides](/assets/files/HKNECE110ReviewSession1SP17.pdf)
+
+[ECE 110 Worksheet- Blank](/assets/files/HKNECE110ReviewSession1WorksheetSP17.pdf)
+
+[ECE 110 Worksheet - Solutions](/assets/files/HKNECE110ReviewSession1WorksheetSolutionsSP17.pdf)
+
+
 [ECE 120 Slides](/assets/files/HKNECE120ReviewSession1SP17.pdf)
 
 [ECE 210 Slides](/assets/files/HKNECE210ReviewSession1SP17.pdf)
 
 [ECE 220 Slides](/assets/files/HKNECE220ReviewSession1SP17.pdf)
+
+[ECE 310 Slides](/assets/files/HKNECE310ReviewSession1SP17.pdf)
 
 [ECE 329 Slides](/assets/files/HKNECE329ReviewSession1SP17.pdf)
 
