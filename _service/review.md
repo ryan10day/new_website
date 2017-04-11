@@ -35,6 +35,8 @@ Spring 2017
 
 [ECE 340 Slides](/assets/files/HKNECE340ReviewSession2SP17.pdf)
 
+[ECE 340 Slides Pt. 2](/assets/files/HKNECE340ReviewSession2pt2SP17.pdf)
+
 Fall 2016 
 -----------
 
