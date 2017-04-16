@@ -37,6 +37,14 @@ Spring 2017
 
 [ECE 340 Slides Pt. 2](/assets/files/HKNECE340ReviewSession2pt2SP17.pdf)
 
+###Third midterm review session:
+
+[ECE 120 Slides](/assets/files/HKNECE120ReviewSession3SP17.pdf)
+
+[ECE 210 Slides](/assets/files/HKNECE210ReviewSession3SP17.pdf)
+
+[ECE 329 Slides](/assets/files/HKNECE329ReviewSession3SP17.pdf)
+
 Fall 2016 
 -----------
 
