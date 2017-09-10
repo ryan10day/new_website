@@ -1,51 +1,51 @@
-- name: Ryan Grady
-  title: President
-  email: hkn-pres@illinois.edu
-
-- name: Hyunbin Park
-  title: Vice President
-  email: hkn-vp@illinois.edu
-
-- name: Seungjun Cho
-  title: Treasurer
-  email: sccho3@illinois.edu
-
-- name: Alan Yang
-  title: Director of Operations
-  email: asyang2@illinois.edu
-
-- name: Todd Nguyen
-  title: Director of Corporate Relations
-  email: hkn-corporate@illinois.edu
-
 - name: Corey Snyder
-  title: Director of Student Services
-  email: hkn-services@illinois.edu
-
-- name: Evan Qi
-  title: Director of Events
-  email: eqi2@illinois.edu
-
-- name: Molly Fane
-  title: Director of Initiate Affairs
-  email: mkfane2@illinois.edu
+   title: President
+   email: cesnyde2@illinois.edu
 
 - name: Anthony Li
-  title: Director of Information
-  email: ali34@illinois.edu
+   title: Vice President
+   email: ali34@illinois.edu
+
+- name: Somie Park
+   title: Treasurer
+   email: spark270@illinois.edu
+
+- name: Fares Takieddine
+   title: Director of Technology
+   email: ftakie2@illinois.edu
+
+- name: Alvin Wu
+   title: Director of Corporate 
+   email: alvinwu2@illinois.edu
+
+- name: AJ Schroeder
+   title: Director of Student Services
+   email: ajschro2@illinois.edu
 
 - name: Vikram Anjur
-  title: Director of Outreach
-  email: vanjur2@illinois.edu
+   title: Director of Outreach
+   email: vanjur2@illinois.edu
 
-- name: Matthew Schuele
-  title: Director of Technology
-  email: hkn-tech@illinois.edu
+- name: Divij Nagpaul
+   title: Director of Secretary
+   email: nagpaul2@illinois.edu
 
-- name: Kaidong Peng
-  title: Director of Publicity
-  email: kpeng7@illinois.edu
+- name: Junnun Safoan
+   title: Director of Publicity
+   email: safoan2@illinois.edu
 
-- name: Christopher Dunaway
-  title: Secretary
-  email: cdunawa2@illinois.edu
+- name: Grant Greenberg
+   title: Director of Operations
+   email: gcgreen2@illinois.edu
+
+- name: Molly Fane
+   title: Director of Initiate Affairs
+   email: mkfane2@illinois.edu
+
+- name: Janish Yerra
+   title: Director of Events
+   email: jyerra2@illinois.edu
+
+- name: Mahir Morshed
+   title: Director of Information
+   email: mmorshe2@illinois.edu
