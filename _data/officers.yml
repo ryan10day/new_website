@@ -1,51 +1,53 @@
 - name: Corey Snyder
-   title: President
-   email: cesnyde2@illinois.edu
+  title: President
+  email: cesnyde2@illinois.edu
 
 - name: Anthony Li
-   title: Vice President
-   email: ali34@illinois.edu
+  title: Vice President
+  email: ali34@illinois.edu
 
 - name: Somie Park
-   title: Treasurer
-   email: spark270@illinois.edu
-
+  title: Treasurer
+  email: spark270@illinois.edu
+  
 - name: Fares Takieddine
-   title: Director of Technology
-   email: ftakie2@illinois.edu
+  title: Director of Technology
+  email: ftakie2@illinois.edu
 
 - name: Alvin Wu
-   title: Director of Corporate 
-   email: alvinwu2@illinois.edu
+  title: Director of Corporate 
+  email: alvinwu2@illinois.edu
 
 - name: AJ Schroeder
-   title: Director of Student Services
-   email: ajschro2@illinois.edu
+  title: Director of Student Services
+  email: ajschro2@illinois.edu
 
 - name: Vikram Anjur
-   title: Director of Outreach
-   email: vanjur2@illinois.edu
+  title: Director of Outreach
+  email: vanjur2@illinois.edu
 
 - name: Divij Nagpaul
-   title: Director of Secretary
-   email: nagpaul2@illinois.edu
+  title: Director of Secretary
+  email: nagpaul2@illinois.edu
 
 - name: Junnun Safoan
-   title: Director of Publicity
-   email: safoan2@illinois.edu
+  title: Director of Publicity
+  email: safoan2@illinois.edu
 
 - name: Grant Greenberg
-   title: Director of Operations
-   email: gcgreen2@illinois.edu
+  title: Director of Operations
+  email: gcgreen2@illinois.edu
 
 - name: Molly Fane
-   title: Director of Initiate Affairs
-   email: mkfane2@illinois.edu
+  title: Director of Initiate Affairs
+  email: mkfane2@illinois.edu
 
 - name: Janish Yerra
-   title: Director of Events
-   email: jyerra2@illinois.edu
+  title: Director of Events
+  email: jyerra2@illinois.edu
 
 - name: Mahir Morshed
-   title: Director of Information
-   email: mmorshe2@illinois.edu
+  title: Director of Information
+  email: mmorshe2@illinois.edu
+
+
