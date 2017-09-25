@@ -26,14 +26,9 @@ Check out your point totals [over here](https://docs.google.com/spreadsheets/d/1
 
 If they are not up to date, be sure to e-mail Molly!
 
-Committee Assignments
----------------------
-Find your assigned committee [here](https://docs.google.com/spreadsheets/d/1ZGN5ynhlGnaO3fKA7R2H8F6POXHC1h5xehamPig1IbM/edit?usp=sharing)
-
-Remember, you should be working with your assigned committee throughout the semester!
 
 Office Hours Schedule
 ---------------------
-HKN initiate office hours schedule located [here](https://docs.google.com/a/illinois.edu/spreadsheets/d/1Mf_MQSe5wRf3kgCtgYbvjfT61S92MMsKHJiwhciaYFU/edit?usp=sharing)
+HKN initiate office hours schedule located [here](https://docs.google.com/a/illinois.edu/spreadsheets/d/1-7cqHg_CnIvdIc8_Mc6Lwh9oAyM061PLKc7e3OlvSXI/edit?usp=sharing)
 
 Remember, office hours are every week.
