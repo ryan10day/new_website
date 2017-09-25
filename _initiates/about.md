@@ -22,13 +22,13 @@ Soon, former initiates might come up looking for for their membership certificat
 
 Points Spreadsheet
 ---
-Check out your point totals [over here](https://docs.google.com/spreadsheets/d/1oXljo0vW4aKDYPTuPgeLHTRbvQsRguwb72iqlBfmJ-g/edit#gid=0)!
+Check out your point totals [over here](https://docs.google.com/a/illinois.edu/spreadsheets/d/1-7cqHg_CnIvdIc8_Mc6Lwh9oAyM061PLKc7e3OlvSXI/edit?usp=sharing)!
 
 If they are not up to date, be sure to e-mail Molly!
 
 
 Office Hours Schedule
 ---------------------
-HKN initiate office hours schedule located [here](https://docs.google.com/a/illinois.edu/spreadsheets/d/1-7cqHg_CnIvdIc8_Mc6Lwh9oAyM061PLKc7e3OlvSXI/edit?usp=sharing)
+HKN initiate office hours schedule located [here](https://docs.google.com/a/illinois.edu/spreadsheets/d/1KjOOdv7TSWtRIWD58rflJkcor2M8-EI8veP0TEXdIvM/edit?usp=sharing)
 
 Remember, office hours are every week.
