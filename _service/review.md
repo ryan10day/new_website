@@ -1,6 +1,11 @@
 ---
 title: Review Sessions
 ---
+FALL 2017
+-----------
+###First midterm review session:
+[ECE 342 Slides](/assets/files/ECE342-Review-Session-1-Fa17.pptx)
+
 
 Spring 2017 
 -----------
