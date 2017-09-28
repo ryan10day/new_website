@@ -10,7 +10,7 @@ FALL 2017
 
 [ECE 210 Slides](/assets/files/HKNECE210ReviewSession1FA17.pdf)
 
-[ECE 220 Slides](/assets/files/HKNECE220ReviewSession1FA17.pdf)
+[ECE 220 Slides](/assets/files/HKNECE220ReviewSession1FA17.pptx)
 
 [ECE 342 Slides](/assets/files/ECE342-Review-Session-1-Fa17.pptx)
 
