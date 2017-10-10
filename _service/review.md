@@ -14,6 +14,8 @@ FALL 2017
 
 [ECE 342 Slides](/assets/files/ECE342-Review-Session-1-Fa17.pptx)
 
+[ECE 313 Slides] (/assets/files/ECE313-Review-Session-1-Fa17.pdf)
+
 Spring 2017 
 -----------
 
