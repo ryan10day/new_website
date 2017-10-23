@@ -16,6 +16,10 @@ FALL 2017
 
 [ECE 313 Slides](/assets/files/ECE313-Review-Session-1-Fa17.pdf)
 
+[ECE 342 Slides](/assets/files/ECE342-Review-Session-2-Fa17.pdf)
+
+[ECE 342 HW Problem 6f](/assets/files/ECE342hw6_2f.pdf)
+
 Spring 2017 
 -----------
 
