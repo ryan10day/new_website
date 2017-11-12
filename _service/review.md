@@ -19,9 +19,15 @@ FALL 2017
 ###Second midterm review session:
 
 [ECE 210 Slides](/assets/files/210-Midterm-2.pptx)
+[ECE 220 Slides](/assets/files/ECE_220_exam2_review_fa17.pdf)
 [ECE 120 Slides](/assets/files/ECE120Review Session.pdf)
 [ECE 342 Slides](/assets/files/ECE342-Review-Session-2-Fa17.pdf)
 [ECE 342 HW Problem 6f](/assets/files/ECE342hw6_2f.pdf)
+
+###Third midterm review session:
+
+[ECE 329 Slides](/assets/files/ECE_329_exam_3_review_fa17.pdf)
+[ECE 342 Slides](/assets/files/ECE_342_exam3_review_fa17.pdf)
 
 Spring 2017 
 -----------
