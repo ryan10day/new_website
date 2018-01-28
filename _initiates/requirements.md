@@ -4,7 +4,7 @@ title: Initiation Requirements
 
 Undergraduate Students
 ---
-* Pay Dues ($75.00)
+* Pay Dues ($100.00)
 * Get 15 Initiation Points
 * 5 Service Points
 * 5 Social Points
@@ -14,9 +14,9 @@ Undergraduate Students
 
 Graduate Students
 ---
-Graduates still have to pay dues (75.00), but the rest of the requirements are significantly relaxed.
+Graduates still have to pay dues ($100.00), but the rest of the requirements are significantly relaxed.
 
-* Pay Dues (75.00) - includes IEEE membership
+* Pay Dues ($100.00) - includes 1-year, IEEE membership
 * Get 3 Initiation Points
 * 3 Service Points (Or do one other thing arranged with Director of Initiate Affairs, usually a graduate student panel)
 
