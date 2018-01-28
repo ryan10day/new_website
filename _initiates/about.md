@@ -6,7 +6,7 @@ Welcome to the HKN Initiates Page! Important Information will be posted here as 
 
 Slides From Initiation Information Session
 ---
-[HKN Information Session Slides](/assets/files/HKNInfoSessionSP17.pdf)
+[HKN Information Session Slides](https://docs.google.com/presentation/d/1uO1xQD-bhPH4r_jJhhVi8H6b_yWoXy8gFwvVC6BnZU4/edit?usp=sharing)
 
 Initiate Office Hour Selfies
 ---------------------------
@@ -22,13 +22,13 @@ Soon, former initiates might come up looking for for their membership certificat
 
 Points Spreadsheet
 ---
-Check out your point totals [over here](https://docs.google.com/a/illinois.edu/spreadsheets/d/1-7cqHg_CnIvdIc8_Mc6Lwh9oAyM061PLKc7e3OlvSXI/edit?usp=sharing)!
+Check out your point totals [over here](https://docs.google.com/spreadsheets/d/1Dfrcpue0QHYq_ilnBaHGSP7jUPqKBLSwgDv86K4yvSs/edit?usp=sharing)!
 
 If they are not up to date, be sure to e-mail Sean!
 
 
 Office Hours Schedule
 ---------------------
-HKN initiate office hours schedule located [here](https://docs.google.com/a/illinois.edu/spreadsheets/d/1KjOOdv7TSWtRIWD58rflJkcor2M8-EI8veP0TEXdIvM/edit?usp=sharing)
+HKN initiate office hours schedule located [here](https://goo.gl/Qbe7H7)
 
 Remember, office hours are every week.
