@@ -15,7 +15,7 @@ After the session, please fill out [this form](https://docs.google.com/forms/d/1
 If you would like to be an HKN tutor, [click here](https://docs.google.com/forms/d/1Kj8xE6wZOQdUpwV4j6Zf6Dzfp2YrMeagnkyy8PUv4Lk/viewform).
 
 
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTmjkd83mkLNOrP5C0EYFlyPCpAcACVZOzezAdRnIo7yKzEk4woLJjk47DIXEi59Ywkr5QO_hBYaZw8/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false" width="80%" height="515vh" frameborder="0"></iframe>></iframe>
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTmjkd83mkLNOrP5C0EYFlyPCpAcACVZOzezAdRnIo7yKzEk4woLJjk47DIXEi59Ywkr5QO_hBYaZw8/pubhtml?" width="80%" height="515vh" frameborder="0"></iframe>
 
 Group Tutoring:
 ---
