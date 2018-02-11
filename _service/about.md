@@ -8,7 +8,7 @@ We provide review sessions before exams for -ECE 110, ECE 120 -ECE 210, ECE 220 
 
 Tutoring:
 ---
-HKN offers free one-on-one peer tutoring. Simply contact a tutor to arrange a time. The tutor’s netid, and the courses for which they are offering tutoring are listed below. If you would like a tutor for a course that is not listed below, please reach out to Molly Fabe at mkfane2[at]illinois.edu, and we will be happy to arrange something. You can also check the [CARE website](http://publish.illinois.edu/engineering-care/) for tutoring and extra office hours in non-ECE required classes.
+HKN offers free one-on-one peer tutoring. Simply contact a tutor to arrange a time. The tutor’s netid, and the courses for which they are offering tutoring are listed below. If you would like a tutor for a course that is not listed below, please reach out to Molly Fane at mkfane2[at]illinois.edu, and we will be happy to arrange something. You can also check the [CARE website](http://publish.illinois.edu/engineering-care/) for tutoring and extra office hours in non-ECE required classes.
 
 After the session, please fill out [this form](https://docs.google.com/forms/d/1NMAgB1nKT2S_UE7yKy4KB6PNFr4cqnBuRoIP3wegFes/viewform). We appreciate your feedback.
 
