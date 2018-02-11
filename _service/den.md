@@ -18,4 +18,4 @@ Dr. Everitt’s Neighborhood is an independent, student-run guide intended to pr
 
 Ultimately this resource is what you, the fellow ECE student, make of it. It may help you choose courses, research interests, learn more about professors and their personal and professional interests, stay informed on student opinions, etc. Accordingly, this resource lives on the feedback and ideas of the students in ECE. If you can think of other articles or features to include, we want to know, and if you want, you can even help write them.
 
-If you would like to get involved with this guide, please contact Corey Snyder at cesnyde2[at]illinois.edu.
+If you would like to get involved with this guide, please contact Mahir Morshed at mmorshe2[at]illinois.edu.
