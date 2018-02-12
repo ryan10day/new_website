@@ -4,11 +4,20 @@ title: Review Sessions
 
 SPRING 2018
 -----------
+
 ###First midterm review session:
+
+[ECE 120 Slides](/assets/files/HKNECE120ReviewSession1SP18.pdf) 
+
+[ECE 120 Handout](/assets/files/HKNECE120ReviewSession1SP18_Handout.pdf)
 
 [ECE 210 Slides](/assets/files/HKNECE210ReviewSession1SP18.pdf)
 
 [ECE 220 Slides](/assets/files/HKNECE220ReviewSession1SP18.pptx)
+
+[PHYS 212 Slides](/assets/files/HKNPHYS212ReviewSession1SP18.pptx)
+
+[PHYS 214 Slides](/assets/files/HKNPHYS214ReviewSession1SP18.pptx)
 
 Fall 2017
 -----------
