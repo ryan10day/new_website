@@ -7,7 +7,7 @@ SPRING 2018
 
 ###First midterm review session:
 
-[ECE 120 Slides](/assets/files/HKNECE120ReviewSession1SP18.pdf) 
+[ECE 120 Slides](/assets/files/HKNECE120ReviewSession1SP18.pptx) 
 
 [ECE 120 Handout](/assets/files/HKNECE120ReviewSession1SP18_Handout.pdf)
 
