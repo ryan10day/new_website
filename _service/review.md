@@ -6,6 +6,7 @@ SPRING 2018
 -----------
 
 ###First midterm review session:
+
 [ECE 391 Slides](/assets/files/HKNECE391ReviewSession1SP18.pdf) 
 
 [ECE 374 Slides](/assets/files/HKNECE374ReviewSession1SP18.pdf) 
