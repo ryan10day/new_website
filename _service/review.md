@@ -16,8 +16,7 @@ SPRING 2018
 [ECE 110 Handout, ](/assets/files/HKNECE110ReviewSession1SP18_Handout.pdf) 
 [ECE 110 Handout Solutions](/assets/files/HKNECE110ReviewSession1SP18_Handout_Sols.pdf) 
 
-[ECE 120 Slides](/assets/files/HKNECE120ReviewSession1SP18.pptx) 
-
+[ECE 120 Slides, ](/assets/files/HKNECE120ReviewSession1SP18.pptx) 
 [ECE 120 Handout](/assets/files/HKNECE120ReviewSession1SP18_Handout.pdf)
 
 [ECE 210 Slides](/assets/files/HKNECE210ReviewSession1SP18.pdf)
