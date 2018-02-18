@@ -4,12 +4,17 @@ title: Student Services
 
 Review sessions:
 ---
-We provide review sessions before exams for 
-* ECE 110, ECE 120  
-* ECE 210, ECE 220  
-* ECE 310, ECE 313, ECE 329, ECE 340, ECE 342, ECE 391 
-* CS 374 
-* PHYS 211, PHYS 212, PHYS 213, PHYS 214. 
+We provide review sessions before exams for:
+
+ECE 110, ECE 120  
+
+ECE 210, ECE 220  
+
+ECE 310, ECE 313, ECE 329, ECE 340, ECE 342, ECE 391 
+
+CS 374 
+
+PHYS 211, PHYS 212, PHYS 213, PHYS 214. 
 
 We also assist course staff in their review sessions if they need help from HKN. This is also a great chance for our members to get involved and to practice presentation skills in an academic context.
 
