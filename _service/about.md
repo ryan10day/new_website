@@ -24,7 +24,7 @@ HKN offers free one-on-one peer tutoring. Simply contact a tutor to arrange a ti
 
 After the session, please fill out [this form](https://docs.google.com/forms/d/1NMAgB1nKT2S_UE7yKy4KB6PNFr4cqnBuRoIP3wegFes/viewform). We appreciate your feedback.
 
-If you would like to be an HKN tutor, [click here](https://docs.google.com/forms/d/1Kj8xE6wZOQdUpwV4j6Zf6Dzfp2YrMeagnkyy8PUv4Lk/viewform).
+If you would like to be an HKN tutor, [click here](https://goo.gl/forms/MooV8IzznU2FmQAf2).
 
 <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTmjkd83mkLNOrP5C0EYFlyPCpAcACVZOzezAdRnIo7yKzEk4woLJjk47DIXEi59Ywkr5QO_hBYaZw8/pubhtml?gid=775775336&amp;single=true&amp;widget=true&amp;headers=false" width="100%" height="515vh" frameborder="0"></iframe>
 
