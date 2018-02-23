@@ -6,17 +6,17 @@ SPRING 2018
 -----------
 
 ###First midterm review session:
-[PHYS 211 Slides](/assets/files/HKNPHYS211ReviewSession1SP18.pdf) 
+[PHYS 211 Slides](/assets/files/HKNPHYS211ReviewSession1SP18.pdf)
 
-[ECE 391 Slides](/assets/files/HKNECE391ReviewSession1SP18.pdf) 
+[ECE 391 Slides](/assets/files/HKNECE391ReviewSession1SP18.pdf)
 
-[CS 374 Slides](/assets/files/HKNECE374ReviewSession1SP18.pdf) 
+[CS 374 Slides](/assets/files/HKNECE374ReviewSession1SP18.pdf)
 
 [ECE 110 Slides, ](/assets/files/HKNECE110ReviewSession1SP18.pdf)
-[ECE 110 Handout, ](/assets/files/HKNECE110ReviewSession1SP18_Handout.pdf) 
-[ECE 110 Handout Solutions](/assets/files/HKNECE110ReviewSession1SP18_Handout_Sols.pdf) 
+[ECE 110 Handout, ](/assets/files/HKNECE110ReviewSession1SP18_Handout.pdf)
+[ECE 110 Handout Solutions](/assets/files/HKNECE110ReviewSession1SP18_Handout_Sols.pdf)
 
-[ECE 120 Slides, ](/assets/files/HKNECE120ReviewSession1SP18.pptx) 
+[ECE 120 Slides, ](/assets/files/HKNECE120ReviewSession1SP18.pptx)
 [ECE 120 Handout](/assets/files/HKNECE120ReviewSession1SP18_Handout.pdf)
 
 [ECE 210 Slides](/assets/files/HKNECE210ReviewSession1SP18.pdf)
@@ -70,7 +70,7 @@ Fall 2017
 
 [ECE 210 Slides](/assets/files/HKNECE210ReviewSession4FA17.pdf)
 
-Spring 2017 
+Spring 2017
 -----------
 
 ###First midterm review session:
@@ -112,7 +112,7 @@ Spring 2017
 
 [ECE 329 Slides](/assets/files/HKNECE329ReviewSession3SP17.pdf)
 
-Fall 2016 
+Fall 2016
 -----------
 
 ###First midterm review session:
@@ -120,7 +120,7 @@ Fall 2016
 [ECE 120 Slides](/assets/files/HKNECE120ReviewSession1FA16.pdf)
 
 [ECE 210 Slides Part 1](/assets/files/HKNECE210ReviewSession1FA16pt1.pdf)
-[ECE 210 Slides Part 2] 
+[ECE 210 Slides Part 2]
 [ECE 210 Slides Part 3](/assets/files/HKNECE210ReviewSession1FA16pt3.pdf)
 
 [ECE 220 Slides](/assets/files/HKNECE220ReviewSession1FA16.pdf)
@@ -136,7 +136,7 @@ Fall 2016
 [ECE 210 Slides](/assets/files/HKNECE210ReviewSession2FA16.pdf)
 
 [ECE 220 Slides](/assets/files/HKNECE220ReviewSession2FA16.pdf)
- 
+
 [ECE 310 Slides - Quiz 4](/assets/files/HKNECE310ReviewSession4FA16.pdf)
 
 [ECE 310 Slides - Quiz 5](/assets/files/HKNECE310ReviewSession5FA16.pdf)
@@ -163,8 +163,4 @@ Fall 2016
 
 [ECE 210 Slides](/assets/files/HKNECE210ReviewSessionFinalFA16.pdf)
 
-<iframe style="border-width: 0;" src="https://calendar.google.com/calendar/embed?src=hknalpha1%40gmail.com&ctz=America%2FChicago"width="100%" height="500vh" frameborder="0" scrolling="no"></iframe>
-
-<!-- <iframe src="https://docs.google.com/spreadsheets/d/1L54J4K43q9-jCrLsrsl539OVNCdeUTYPkDNBPAafxm4/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false" width="100%" height="500vh" frameborder="0" ></iframe> -->
-
-
+<iframe src="https://calendar.google.com/calendar/embed?src=hknalpha1%40gmail.com&ctz=America%2FChicago" width="100%" height="515vh" frameborder="0" scrolling="no"></iframe>
