@@ -7,6 +7,8 @@ SPRING 2018
 
 ###First midterm review session:
 
+[ECE 310 Slides](/assets/files/ECE342-Review-Sessions-1-Sp18.pptx)
+
 [ECE 310 Slides](/assets/files/HKNECE310ReviewSession1SP18.pdf)
 
 [ECE 313 Slides](/assets/files/HKNECE313ReviewSession1SP18.pdf)
