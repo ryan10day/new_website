@@ -5,7 +5,11 @@ title: Review Sessions
 SPRING 2018
 -----------
 
-###First midterm review session:
+###Final review sessions:
+
+[PHYS 214 Slides](/assets/files/HKNPHYS214ReviewSession2SP18.pdf)
+
+###First midterm review sessions:
 
 [ECE 342 Slides](/assets/files/ECE342-Review-Sessions-1-Sp18.pptx)
 
