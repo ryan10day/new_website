@@ -7,7 +7,7 @@ SPRING 2018
 
 ###Final review sessions:
 
-[PHYS 214 Slides](/assets/files/HKNPHYS214ReviewSession2SP18.pdf)
+[PHYS 214 Slides](/assets/files/HKNPHYS214ReviewSession2SP18.pptx)
 
 ###First midterm review sessions:
 
