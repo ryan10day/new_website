@@ -13,8 +13,7 @@ SPRING 2018
 
 [ECE 210 Slides](/assets/files/HKNECE210ReviewSession2SP18.pptx)
 
-<!---[PHYS 211 Slides](/assets/files/HKNPHYS211ReviewSession2SP18.pptx)
---->
+[PHYS 211 Slides](/assets/files/HKNPHYS211ReviewSession2SP18.pdf)
 
 ###Final review sessions:
 
