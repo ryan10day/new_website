@@ -67,8 +67,6 @@ Fall 2017
 
 ###Second midterm review session:
 
-<!---[ECE 120 Slides](/assets/files/ECE120ReviewSession.pdf)
---->
 [ECE 210 Slides](/assets/files/210-Midterm-2.pptx)
 
 [ECE 220 Slides](/assets/files/ECE_220_exam2_review_fa17.pdf)
