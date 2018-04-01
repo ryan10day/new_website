@@ -7,6 +7,10 @@ SPRING 2018
 
 ###Second midterm review sessions:
 
+[ECE 220 Slides](/assets/files/HKNECE220ReviewSession2SP18.pdf)
+
+[ECE 391 Slides](/assets/files/HKNECE391ReviewSession2SP18.pdf)
+
 [PHYS 212 Slides, ](/assets/files/HKNPHYS212ReviewSession2SP18.pptx)
 [PHYS 212 Solutions](/assets/files/HKNPHYS212ReviewSession2SP18_problems_soln.zip)
 
