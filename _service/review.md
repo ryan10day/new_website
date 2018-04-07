@@ -7,6 +7,8 @@ SPRING 2018
 
 ###Second midterm review sessions:
 
+[ECE 342 Slides](/assets/files/HKNECE342ReviewSession2SP18.pptx)
+
 [ECE 220 Slides](/assets/files/HKNECE220ReviewSession2SP18.pdf)
 
 [ECE 391 Slides](/assets/files/HKNECE391ReviewSession2SP18.pptx)
