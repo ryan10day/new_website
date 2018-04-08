@@ -10,7 +10,7 @@ SPRING 2018
 
 ###Second midterm review sessions:
 
-[CS 374 Slides](/assets/files/HKNCS374ReviewSession2SP18.pptx)
+[CS 374 Slides](/assets/files/HKNCS374ReviewSession2SP18.pdf)
 
 [ECE 313 Slides](/assets/files/HKNECE313ReviewSession2SP18.pdf)
 
