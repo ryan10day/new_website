@@ -12,8 +12,16 @@ collections:
   - corporate
   - main
 
+plugins:
+  - jekyll-analytics
+
 sass:
   style: compressed
+
+jekyll_analytics:
+  GoogleAnalytics:          # Add, if you want to track with Google Analytics
+    id: UA-117424398-1      # Required - replace with your tracking id
+    anonymizeIp: false      # Optional - Default: false - set to true for anonymized tracking
 
 exclude: ['Gemfile', 'Gemfile.lock', 'config.ru', 'vendor', 'script', 'Rake', '.travis.yml']
 

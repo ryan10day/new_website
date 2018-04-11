@@ -4,4 +4,4 @@ gem 'bundler'
 gem 'rake-jekyll'
 gem 'jekyll'
 gem 'jekyll-contentblocks'
-
+gem 'jekyll-analytics'
