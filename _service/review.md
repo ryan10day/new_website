@@ -4,7 +4,10 @@ title: Review Sessions
 
 SPRING 2018
 -----------
+
 ###Third midterm review sessions:
+
+[ECE 329 Slides](/assets/files/HKNECE329ReviewSession3SP18.zip)
 
 [PHYS 213 Slides](/assets/files/HKNPHYS213ReviewSession1SP18.pptx)
 
