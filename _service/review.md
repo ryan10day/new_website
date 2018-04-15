@@ -5,7 +5,10 @@ title: Review Sessions
 SPRING 2018
 -----------
 
+
 ###Third midterm review sessions:
+
+[ECE 210 Slides](/assets/files/HKNECE210ReviewSession3SP18.pdf)
 
 [ECE 120 Slides](/assets/files/HKNECE120ReviewSession3SP18.pdf)
 
