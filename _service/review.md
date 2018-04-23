@@ -8,6 +8,8 @@ SPRING 2018
 
 ###Third midterm review sessions:
 
+[PHYS 212 Slides](/assets/files/HKNPHYS212ReviewSession3SP18.pptx)
+
 [ECE 110 Slides, ](/assets/files/HKNECE110ReviewSession3SP18.pdf)
 [ECE 110 Worksheet, ](/assets/files/HKNECE110ReviewSession3SP18.pdf)
 [ECE 110 Worksheet Solutions](/assets/files/HKNECE110ReviewSession3SP18.pdf)
