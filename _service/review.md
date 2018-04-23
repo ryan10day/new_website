@@ -55,7 +55,7 @@ SPRING 2018
 
 [PHYS 214 Slides](/assets/files/HKNPHYS214ReviewSession2SP18.pptx)
 
-###First midterm review sessions:
+### First midterm review sessions:
 
 [ECE 342 Slides](/assets/files/ECE342-Review-Sessions-1-Sp18.pptx)
 
@@ -101,7 +101,7 @@ Fall 2017
 
 [ECE 342 Slides](/assets/files/ECE342-Review-Session-1-Fa17.pptx)
 
-###Second midterm review session:
+### Second midterm review session:
 
 [ECE 210 Slides](/assets/files/210-Midterm-2.pptx)
 
@@ -121,7 +121,7 @@ Fall 2017
 
 [ECE 342 Slides](/assets/files/ECE_342_exam3_review_fa17.pdf)
 
-###Final review session:
+### Final review session:
 
 [ECE 210 Slides](/assets/files/HKNECE210ReviewSession4FA17.pdf)
 
