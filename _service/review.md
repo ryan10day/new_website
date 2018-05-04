@@ -5,6 +5,12 @@ title: Review Sessions
 SPRING 2018
 -----------
 
+### Final review sessions:
+
+[ECE 110 Slides, ](/assets/files/HKNECE110ReviewSession4SP18.pdf)
+[ECE 110 Solutions](/assets/files/HKNECE110ReviewSession4SP18_soln.pdf)
+
+[PHYS 214 Slides](/assets/files/HKNPHYS214ReviewSession2SP18.pptx)
 
 ### Third midterm review sessions:
 
@@ -50,10 +56,6 @@ SPRING 2018
 [ECE 210 Slides](/assets/files/HKNECE210ReviewSession2SP18.pptx)
 
 [PHYS 211 Slides](/assets/files/HKNPHYS211ReviewSession2SP18.pdf)
-
-### Final review sessions:
-
-[PHYS 214 Slides](/assets/files/HKNPHYS214ReviewSession2SP18.pptx)
 
 ### First midterm review sessions:
 
