@@ -7,6 +7,8 @@ SPRING 2018
 
 ### Final review sessions:
 
+[PHYS 212 Slides](/assets/files/HKNPHYS212ReviewSession4SP18.pptx)
+
 [ECE 110 Slides, ](/assets/files/HKNECE110ReviewSession4SP18.pdf)
 [ECE 110 Solutions](/assets/files/HKNECE110ReviewSession4SP18_soln.pdf)
 
