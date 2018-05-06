@@ -7,6 +7,8 @@ SPRING 2018
 
 ### Final review sessions:
 
+[ECE 313 Slides](/assets/files/HKNECE313ReviewSession4SP18.pptx)
+
 [ECE 310 Slides](/assets/files/HKNECE310ReviewSession2SP18.pptx)
 
 [ECE 210 Slides](/assets/files/HKNECE210ReviewSession4SP18.pdf)
