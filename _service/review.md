@@ -7,7 +7,7 @@ SPRING 2018
 
 ### Final review sessions:
 
-[ECE 375 Slides](/assets/files/HKNECE374ReviewSession4SP18.pdf)
+[ECE 374 Slides](/assets/files/HKNECE374ReviewSession4SP18.pdf)
 
 [PHYS 213 Slides](/assets/files/HKNPHYS213ReviewSession4SP18.pptx)
 
