@@ -5,7 +5,7 @@ title: Review Sessions
 SPRING 2018
 -----------
 
-### Final review sessions:
+### Final  review sessions:
 
 [CS 374 Slides](/assets/files/HKNCS374ReviewSession4SP18.pdf)
 
