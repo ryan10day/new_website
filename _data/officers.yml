@@ -1,53 +1,51 @@
-- name: Corey Snyder
+- name: Molly Fane
   title: President
-  email: cesnyde2@illinois.edu
-
-- name: Anthony Li
-  title: Vice President
-  email: ali34@illinois.edu
+  email: mkfane2@illinois.edu
 
 - name: Somie Park
-  title: Treasurer
+  title: Vice President
   email: spark270@illinois.edu
+
+- name: Nikhil Parmar
+  title: Treasurer
+  email: nparmar2@illinois.edu
 
 - name: Navid Mokhlesi
   title: Director of Technology
   email: navidm2@illinois.edu
 
-- name: Benjamin Eng
-  title: Director of Corporate 
-  email: bceng2@illinois.edu
-
-- name: Molly Fane
-  title: Director of Student Services
-  email: mkfane2@illinois.edu
-
 - name: Penny Xu
-  title: Director of Outreach
+  title: Director of Corporate
   email: ypxu2@illinois.edu
 
-- name: Alan Yang
-  title: Director of Secretary
-  email: asyang2@illinois.edu
+- name: Steven Kolaczkowski
+  title: Director of Student Services
+  email: kolaczk2@illinois.edu
 
-- name: Amanda Wang
+- name: Gauri Konanoor
+  title: Director of Outreach
+  email: gmk2@illinois.edu
+
+- name: Milan Shah
+  title: Director of Secretary
+  email: mrshah3@illinois.edu
+
+- name: Tori Colthurst
   title: Director of Publicity
   email: awang47@illinois.edu
 
-- name: Sergio Silva
+- name: Aditya Chitnis
   title: Director of Operations
-  email: ssilva20@illinois.edu
+  email: aac2@illinois.edu
 
-- name: Sean Lee 
+- name: Yda Hoffer-Sogn
   title: Director of Initiate Affairs
-  email: slee500@illinois.edu
+  email: yhh2@illinois.edu
 
 - name: Nathan Narasimhan
   title: Director of Events
   email: nanaras2@illinois.edu
 
-- name: Mahir Morshed
+- name: Richard Nai
   title: Director of Information
-  email: mmorshe2@illinois.edu
-
-
+  email: rnai2@illinois.edu
