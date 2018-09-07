@@ -20,13 +20,14 @@ We also assist course staff in their review sessions if they need help from HKN.
 
 Tutoring:
 ---
-HKN offers free one-on-one peer tutoring. Simply contact a tutor to arrange a time. The tutor’s netid, and the courses for which they are offering tutoring are listed below. If you would like a tutor for a course that is not listed below, please reach out to Molly Fane at mkfane2[at]illinois.edu, and we will be happy to arrange something. You can also check the [CARE website](http://publish.illinois.edu/engineering-care/) for tutoring and extra office hours in non-ECE required classes.
+HKN offers free one-on-one peer tutoring. Simply contact a tutor to arrange a time. The tutor’s netid, and the courses for which they are offering tutoring are listed below. If you would like a tutor for a course that is not listed below, please reach out to Steven Kolaczkowski at kolaczk2[at]illinois.edu, and we will be happy to arrange something. You can also check the [CARE website](http://publish.illinois.edu/engineering-care/) for tutoring and extra office hours in non-ECE required classes.
 
-After the session, please fill out [this form](https://docs.google.com/forms/d/1NMAgB1nKT2S_UE7yKy4KB6PNFr4cqnBuRoIP3wegFes/viewform). We appreciate your feedback.
+#### Feedback:
 
-If you would like to be an HKN tutor, [click here](https://goo.gl/forms/MooV8IzznU2FmQAf2).
+After the tutoring session, please fill out the [Tutor Feedback Form](https://docs.google.com/forms/d/e/1FAIpQLSc_rYq-oWdd_A8Cn3e0vZ4dgkUtsiknGtILpbQFWhoN8Dr6YA/viewform). We appreciate your feedback.
 
 <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTmjkd83mkLNOrP5C0EYFlyPCpAcACVZOzezAdRnIo7yKzEk4woLJjk47DIXEi59Ywkr5QO_hBYaZw8/pubhtml?gid=775775336&amp;single=true&amp;widget=true&amp;headers=false" width="100%" height="515vh" frameborder="0"></iframe>
+
 
 Technical Interviews:
 ---

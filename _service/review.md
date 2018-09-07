@@ -4,11 +4,44 @@ title: Review Sessions
 
 SPRING 2018
 -----------
-###Third midterm review sessions:
+
+### Final  review sessions:
+
+[CS 374 Slides](/assets/files/HKNCS374ReviewSession4SP18.pdf)
+
+[PHYS 213 Slides](/assets/files/HKNPHYS213ReviewSession4SP18.pptx)
+
+[ECE 313 Slides](/assets/files/HKNECE313ReviewSession4SP18.pptx)
+
+[ECE 310 Slides](/assets/files/HKNECE310ReviewSession2SP18.pptx)
+
+[ECE 210 Slides](/assets/files/HKNECE210ReviewSession4SP18.pdf)
+
+[PHYS 212 Slides](/assets/files/HKNPHYS212ReviewSession4SP18.pptx)
+
+[ECE 110 Slides, ](/assets/files/HKNECE110ReviewSession4SP18.pdf)
+[ECE 110 Solutions](/assets/files/HKNECE110ReviewSession4SP18_soln.pdf)
+
+[PHYS 214 Slides](/assets/files/HKNPHYS214ReviewSession2SP18.pptx)
+
+### Third midterm review sessions:
+
+[PHYS 212 Slides](/assets/files/HKNPHYS212ReviewSession3SP18.pptx)
+
+[ECE 110 Slides, ](/assets/files/HKNECE110ReviewSession3SP18.pdf)
+[ECE 110 Worksheet, ](/assets/files/HKNECE110ReviewSession3SP18.pdf)
+[ECE 110 Worksheet Solutions](/assets/files/HKNECE110ReviewSession3SP18.pdf)
+
+
+[ECE 210 Slides](/assets/files/HKNECE210ReviewSession3SP18.pdf)
+
+[ECE 120 Slides](/assets/files/HKNECE120ReviewSession3SP18.pdf)
+
+[ECE 329 Slides](/assets/files/HKNECE329ReviewSession3SP18.zip)
 
 [PHYS 213 Slides](/assets/files/HKNPHYS213ReviewSession1SP18.pptx)
 
-###Second midterm review sessions:
+### Second midterm review sessions:
 
 [CS 374 Slides](/assets/files/HKNCS374ReviewSession2SP18.pdf)
 
@@ -36,11 +69,7 @@ SPRING 2018
 
 [PHYS 211 Slides](/assets/files/HKNPHYS211ReviewSession2SP18.pdf)
 
-###Final review sessions:
-
-[PHYS 214 Slides](/assets/files/HKNPHYS214ReviewSession2SP18.pptx)
-
-###First midterm review sessions:
+### First midterm review sessions:
 
 [ECE 342 Slides](/assets/files/ECE342-Review-Sessions-1-Sp18.pptx)
 
@@ -72,7 +101,7 @@ SPRING 2018
 Fall 2017
 -----------
 
-###First midterm review session:
+### First midterm review session:
 
 [ECE 120 Slides](/assets/files/HKNECE120ReviewSession1FA17.pdf)
 
@@ -86,7 +115,7 @@ Fall 2017
 
 [ECE 342 Slides](/assets/files/ECE342-Review-Session-1-Fa17.pptx)
 
-###Second midterm review session:
+### Second midterm review session:
 
 [ECE 210 Slides](/assets/files/210-Midterm-2.pptx)
 
@@ -98,7 +127,7 @@ Fall 2017
 
 [ECE 342 HW Problem 6f](/assets/files/ECE342hw6_2f.pdf)
 
-###Third midterm review session:
+### Third midterm review session:
 
 [ECE 210 Slides](/assets/files/HKNECE210ReviewSession3FA17.pdf)
 
@@ -106,14 +135,14 @@ Fall 2017
 
 [ECE 342 Slides](/assets/files/ECE_342_exam3_review_fa17.pdf)
 
-###Final review session:
+### Final review session:
 
 [ECE 210 Slides](/assets/files/HKNECE210ReviewSession4FA17.pdf)
 
 Spring 2017
 -----------
 
-###First midterm review session:
+### First midterm review session:
 
 [ECE 110 Slides](/assets/files/HKNECE110ReviewSession1SP17.pdf)
 
@@ -132,7 +161,7 @@ Spring 2017
 [ECE 329 Slides](/assets/files/HKNECE329ReviewSession1SP17.pdf)
 
 
-###Second midterm review session:
+### Second midterm review session:
 
 [ECE 120 Slides](/assets/files/HKNECE120ReviewSession2SP17.pdf)
 
@@ -144,7 +173,7 @@ Spring 2017
 
 [ECE 340 Slides Pt. 2](/assets/files/HKNECE340ReviewSession2pt2SP17.pdf)
 
-###Third midterm review session:
+### Third midterm review session:
 
 [ECE 120 Slides](/assets/files/HKNECE120ReviewSession3SP17.pdf)
 
@@ -155,7 +184,7 @@ Spring 2017
 Fall 2016
 -----------
 
-###First midterm review session:
+### First midterm review session:
 
 [ECE 120 Slides](/assets/files/HKNECE120ReviewSession1FA16.pdf)
 
@@ -169,7 +198,7 @@ Fall 2016
 
 [ECE 313 Slides](/assets/files/HKNECE313ReviewSession1FA16.pdf)
 
-###Second midterm review session:
+### Second midterm review session:
 
 [ECE 120 Slides](/assets/files/HKNECE120ReviewSession2FA16.pdf)
 
@@ -183,7 +212,7 @@ Fall 2016
 
 [ECE 313 Slides](/assets/files/HKNECE313ReviewSession2FA16.pdf)
 
-###Third midterm review session:
+### Third midterm review session:
 
 [ECE 110 Slides](/assets/files/HKNECE110ReviewSession3FA16.pdf)
 
@@ -197,7 +226,7 @@ Fall 2016
 
 [ECE 310 Slides - Quiz 6](/assets/files/HKNECE310ReviewSession6FA16.pdf)
 
-###Final exam review session:
+### Final exam review session:
 
 [ECE 110 Slides](/assets/files/HKNECE110ReviewSessionFinalFA16.pdf)
 

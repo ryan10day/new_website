@@ -4,11 +4,10 @@ title: Initiation Requirements
 
 Undergraduate Students
 ---
-* Pay Dues ($100.00)
-* Get 15 Points
-* 5 Service Points
-* 5 Social Points
-* 5 Flex Points
+* Pay One Time Initiate Fee ($100.00)
+* Get 15 total Points
+* at least 5 Service Points
+* at least 5 Social Points
 * Serve Office Hours Once a Week
 * Attend Mandatory Events
 
