@@ -20,9 +20,11 @@ ECE 310, ECE 313, ECE 329, ECE 340, ECE 342, ECE 391
 
 CS 374 
 
-PHYS 211, PHYS 212, PHYS 213, PHYS 214. 
+PHYS 211, PHYS 212, PHYS 213, PHYS 214.
 
 We also assist course staff in their review sessions if they need help from HKN. This is also a great chance for our members to get involved and to practice presentation skills in an academic context.
+
+<iframe width="100%" height="515vh" allowfullscreen style="border-style:none;" src="https://cdn.pannellum.org/2.4/pannellum.htm?panorama=https://i.imgur.com/cKYlOFm.jpg&amp;haov=210.00&amp;vaov=100.00"></iframe>
 
 Tutoring:
 ---
