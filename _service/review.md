@@ -232,4 +232,3 @@ Fall 2016
 
 [ECE 210 Slides](/assets/files/HKNECE210ReviewSessionFinalFA16.pdf)
 
-<iframe src="https://calendar.google.com/calendar/embed?src=hknalpha1%40gmail.com&ctz=America%2FChicago" width="100%" height="515vh" frameborder="0" scrolling="no"></iframe>
