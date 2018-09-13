@@ -13,5 +13,3 @@ Service Opportunities
 ---
 The easiest way to stay up to date is by joining the HKN Fall 2018 Slack group to see upcoming service events and review session opportunities. Join Today, the link can be found in the RSO office. You can also stay up to date through the following calendar.
 
-<iframe src="https://calendar.google.com/calendar/embed?src=hknalpha1%40gmail.com&ctz=America%2FChicago" width="100%" height="515vh" frameborder="0" scrolling="no"></iframe>
-
