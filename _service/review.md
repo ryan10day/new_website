@@ -11,6 +11,9 @@ FALL 2018
 
 [PHYS 214 Slides](/assets/files/Phys214Exam1FA18.pptx)
 
+[ECE 329 Slides](/assets/files/HKNECE329ReviewSession1FA18.pdf)
+
+
 SPRING 2018
 -----------
 
