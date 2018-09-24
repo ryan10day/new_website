@@ -5,7 +5,7 @@ title: Review Sessions
 FALL 2018
 -----------
 
-### First Midterm Review Session:
+### First Midterm Review Sessions:
 
 [ECE 110 Slides](/assets/files/HKNECE110ReviewSession1FA18.pptx)
 
