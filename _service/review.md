@@ -13,9 +13,11 @@ FALL 2018
 
 [ECE 329 Slides](/assets/files/HKNECE329ReviewSession1FA18.pdf)
 
-[ECE 210 Slides](assets/files/HKNECE210ReviewSession1FA18.pptx)
+[PHYS 212 Slides](/assets/files/HKNPHYS212ReviewSession1FA18.pptx)
 
-[ECE 120 Slides](assets/files/HKNECE120ReviewSession1FA18.pptx)
+[ECE 210 Slides](/assets/files/HKNECEReviewSession1FA18.pptx)
+
+[ECE 120 Slides](/assets/files/HKNECE120ReviewSesion1FA18.pptx)
 
 
 SPRING 2018
