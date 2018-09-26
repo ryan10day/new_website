@@ -15,15 +15,15 @@ FALL 2018
 
 [PHYS 212 Slides](/assets/files/HKNPHYS212ReviewSession1FA18.pptx)
 
-[ECE 210 Slides](/assets/files/HKNECEReviewSession1FA18.pptx)
+[ECE 210 Slides](/assets/files/HKNECEReviewSession1FA18.pdf)
 
-[ECE 120 Slides](/assets/files/HKNECE120ReviewSesion1FA18.pptx)
+[ECE 120 Slides](/assets/files/HKNECE120ReviewSesion1FA18.pdf)
 
 
 SPRING 2018
 -----------
 
-### Final  review sessions:
+### Final review sessions:
 
 [CS 374 Slides](/assets/files/HKNCS374ReviewSession4SP18.pdf)
 
