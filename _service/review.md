@@ -19,6 +19,8 @@ FALL 2018
 
 [ECE 120 Slides](/assets/files/HKNECE120ReviewSession1FA18.pdf)
 
+[ECE 220 Slides](/assets/files/HKNECE220ReviewSession1FA18.pdf)
+
 
 SPRING 2018
 -----------
