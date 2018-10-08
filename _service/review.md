@@ -30,6 +30,10 @@ FALL 2018
 
 [CS/ECE 374 Slides](/assets/files/HKNCS374ReviewSession1FA18.pdf)
 
+[ECE 313 Slides](/assets/files/HKNECE313ReviewSession1FA18.pptx)
+
+[ECE 342 Slides with Answers](/assets/files/HKNECE342ReviewSession1FA18.pptx)
+
 
 SPRING 2018
 -----------
