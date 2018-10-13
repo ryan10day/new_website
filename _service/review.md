@@ -10,6 +10,12 @@ title: Review Sessions
 FALL 2018
 -----------
 
+### Second Midterm Review Sessions:
+
+[ECE 110 Slides](/assets/files/HKNECE110ReviewSession2FA18.pptx)
+
+[ECE 329 Slides](/assets/files/HKNECE329ReviewSession2FA18.pptx)
+
 ### First Midterm Review Sessions:
 
 [ECE 110 Slides](/assets/files/HKNECE110ReviewSession1FA18.pptx)
@@ -33,6 +39,8 @@ FALL 2018
 [ECE 313 Slides](/assets/files/HKNECE313ReviewSession1FA18.pptx)
 
 [ECE 342 Slides with Answers](/assets/files/HKNECE342ReviewSession1FA18.pptx)
+
+[ECE 310 Slides](/assets/files/HKNECE310ReviewSession1FA18.pptx)
 
 
 SPRING 2018
