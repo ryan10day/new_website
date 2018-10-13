@@ -12,7 +12,7 @@ FALL 2018
 
 ### Second Midterm Review Sessions:
 
-[ECE 110 Slides](/assets/files/HKNECE110ReviewSession2FA18.pptx)
+[ECE 110 Slides](/assets/files/HKNECE110ReviewSession2FA18.pptm)
 
 [ECE 329 Slides](/assets/files/HKNECE329ReviewSession2FA18.pptx)
 
