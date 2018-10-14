@@ -10,6 +10,10 @@ title: Review Sessions
 FALL 2018
 -----------
 
+### Final Exam Review Sessions:
+
+[PHYS 214 Slides](/assets/files/HKNPHYS214ReviewSession2FA18.pptx)
+
 ### Second Midterm Review Sessions:
 
 [ECE 110 Slides](/assets/files/HKNECE110ReviewSession2FA18.pptm)
