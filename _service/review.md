@@ -22,7 +22,7 @@ FALL 2018
 
 [ECE 120 Slides](/assets/files/HKNECE120ReviewSession2FA18.pptx)
 
-[ECE 210 Slides](/assets/files/HKNECE210ReivewSession2FA18.pptx)
+[ECE 210 Slides](/assets/files/HKNECE210ReviewSession2FA18.pptx)
 
 [PHYS 211 Slides](/assets/files/HKNPHYS211ReviewSession2FA18.pptx)
 
