@@ -22,6 +22,8 @@ FALL 2018
 
 ### Second Midterm Review Sessions:
 
+[CS/ECE 374 Slides](/assets/files/HKNCS374ReviewSession2FA18.pdf)
+
 [ECE 110 Slides](/assets/files/HKNECE110ReviewSession2FA18.pptm)
 
 [ECE 329 Slides](/assets/files/HKNECE329ReviewSession2FA18.pptx)
