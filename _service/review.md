@@ -20,6 +20,10 @@ FALL 2018
 
 [ECE 329 Slides](/assets/files/HKNECE329ReviewSession3SP18.zip)
 
+[ECE 120 Slides](/assets/files/HKNECE120ReviewSession3FA18.pptx)
+
+[ECE 210 Slides](/assets/files/HKNECE210ReviewSession3FA18.pptx)
+
 ### Second Midterm Review Sessions:
 
 [CS/ECE 374 Slides](/assets/files/HKNCS374ReviewSession2FA18.pdf)
