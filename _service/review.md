@@ -14,6 +14,8 @@ FALL 2018
 
 [PHYS 214 Slides](/assets/files/HKNPHYS214ReviewSession2FA18.pptx)
 
+[PHYS 213 Slides](/assets/files/HKNPHYS213ReviewSession2Fa18.pptx)
+
 ### Third Midterm Review Sessions:
 
 [ECE 110 Slides](/assets/files/HKNECE110ReviewSession3FA18.pptx)
