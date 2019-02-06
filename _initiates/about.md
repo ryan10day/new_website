@@ -4,13 +4,15 @@ title: Initiates
 
 Welcome to the HKN Initiates Page! Important Information will be posted here as it is created for the current semester’s initiate class. If you have any questions about any of the content here please email Yda Hoffer-Sohn, the Director of Initiate Affairs (contact information on the [Officers Page](/about#officers)).
 
+<br /> 
+
 Slides From Initiation Information Session
 ---
-[HKN Information Session Slides](https://docs.google.com/presentation/d/1ca5E4kraMOlFxm_Qn2D3PQNni9B8BCAaK77VZkV_bJQ/edit?usp=sharing)
+[HKN Information Session Slides](https://docs.google.com/presentation/d/1Mqgfye1jbE2LOK9fpRT25_FM8fl3UGgo71JTYh6Ckyk/edit?usp=sharing)
 
 Initiate Office Hour Quizzes
 ---------------------------
-Be sure to take your quiz during your office hours and fill out the google form from the whiteboard in the office! 
+Be sure to take your quiz during your office hours and fill out the google form from the whiteboard in the office!
 
 Member Certificates
 ---
@@ -18,13 +20,13 @@ Soon, former initiates might come up looking for for their membership certificat
 
 Points Spreadsheet
 ---
-Check out your point totals [over here](https://docs.google.com/spreadsheets/d/1MscO7vdelkSY_LCBctTK_jzJ-bkO-Ty3J_3kILmh5Wo/edit?usp=sharing)!
+Check out your point totals [over here](https://docs.google.com/spreadsheets/d/1ZKrPiVwirtU2iX8xhpKUYdfL5wsBDptmHlsBjZr20nY/edit?usp=sharing)!
 
-If they are not up to date, be sure to e-mail Sean!
+If they are not up to date, be sure to e-mail Yda!
 
 
 Office Hours Schedule
 ---------------------
-HKN initiate office hours schedule located [here](https://docs.google.com/spreadsheets/d/1WWpXGy6tzZBBXblSBgrXll7lytpZgqkjXxiSaMSWze0/edit#gid=0)
+HKN initiate weekly office hours schedule:
 
-Remember, office hours are every week.
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vS5TuCV40C9Q6tphIEGK5ZKcyXsTr7PIE62c2FChev7knbts2VxHI-ZBbtFDJi-NPxg7YRKx_ycXbx-/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false" width="100%" height="550vh" frameborder="0"></iframe>

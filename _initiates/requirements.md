@@ -21,5 +21,4 @@ Graduates still have to pay dues ($100.00), but the rest of the requirements are
 
 Office Hours
 ---
-An updated office hours schedule is linked above. If you cannot make your office hours for any reason, contact  Sean Lee (contact information on the Officers Page) to schedule a makeup office hour.
-
+An updated office hours schedule is above. If you cannot make your office hours for any reason, contact Yda (contact information on the Officers Page) to schedule a makeup office hour.
