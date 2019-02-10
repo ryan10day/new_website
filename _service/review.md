@@ -13,4 +13,4 @@ SPRING 2019
 
 ### First Midterm Review Sessions:
 
-[PLACE HOLDER](/assets/files/HKNECE110ReviewSession1FA18.pptx)
+[PHYS 214](/assets/files/HKNPHYS214ReviewSession1SP19.pptx)
