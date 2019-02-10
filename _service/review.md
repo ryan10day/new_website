@@ -14,3 +14,6 @@ SPRING 2019
 ### First Midterm Review Sessions:
 
 [PHYS 214](/assets/files/HKNPHYS214ReviewSession1SP19.pptx)
+
+[ECE 329 Review Slides](/assets/files/HKNECE329ReviewSession1SP19Review.pptx)  [ECE 329 Problems](/assets/files/HKNECE329ReviewSession1SP19Problems.pptx)
+
