@@ -17,3 +17,7 @@ SPRING 2019
 
 [ECE 329 Review Slides](/assets/files/HKNECE329ReviewSession1SP19Review.pptx)  [ECE 329 Problems](/assets/files/HKNECE329ReviewSession1SP19Problems.pptx)
 
+[ECE 210](/assets/files/HKNECE210ReviewSession1SP19.pptx)
+
+[ECE 342](/assets/files/HKNECE342ReviewSession1SP19.pptx)
+
