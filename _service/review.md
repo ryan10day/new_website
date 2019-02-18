@@ -21,3 +21,8 @@ SPRING 2019
 
 [ECE 342](/assets/files/HKNECE342ReviewSession1SP19.pptx)
 
+[ECE 310](/assets/files/HKNECE310ReviewSession1SP19.pptx)
+
+[CS/ECE 374](/assets/files/HKNCS374ReviewSession1SP19.pdf)
+
+
