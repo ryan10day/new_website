@@ -37,3 +37,5 @@ SPRING 2019
 ### Final Exam Review Sessions:
 
 [PHYS 214](/assets/files/HKNPHYS214ReviewSession2SP19.pptx)
+
+[ECE 329](/assets/files/HKNECE329ReviewSession2SP19.pptx)
