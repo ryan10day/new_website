@@ -39,3 +39,7 @@ SPRING 2019
 [PHYS 214](/assets/files/HKNPHYS214ReviewSession2SP19.pptx)
 
 [ECE 329](/assets/files/HKNECE329ReviewSession2SP19.pptx)
+
+[ECE 210](/assets/files/HKNECE210ReviewSession2SP19.pptx)
+
+[ECE 342 Slides](/assets/files/HKNECE324ReviewSession2SP19.pptx) [Worked Problem](/assets/files/ECE342hw6_2f.pdf)
