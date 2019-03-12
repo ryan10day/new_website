@@ -45,6 +45,6 @@ SPRING 2019
 
 ### Final Exam Review Sessions:
 
-[PHYS 214](/assets/files/HKNPHYS214ReviewSession2SP19.pptx)
+[PHYS 214](/assets/files/HKNECE342ReviewSession2SP19.pptx)
 
 
