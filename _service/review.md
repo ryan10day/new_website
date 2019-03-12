@@ -34,12 +34,17 @@ SPRING 2019
 [ECE 313](/assets/files/HKNECE313ReviewSession1SP19.pptx)
 
 
-### Final Exam Review Sessions:
-
-[PHYS 214](/assets/files/HKNPHYS214ReviewSession2SP19.pptx)
+### Second Midterm Review Sessions
 
 [ECE 329](/assets/files/HKNECE329ReviewSession2SP19.pptx)
 
 [ECE 210](/assets/files/HKNECE210ReviewSession2SP19.pptx)
 
 [ECE 342 Slides](/assets/files/HKNECE324ReviewSession2SP19.pptx) [Worked Problem](/assets/files/ECE342hw6_2f.pdf)
+
+
+### Final Exam Review Sessions:
+
+[PHYS 214](/assets/files/HKNPHYS214ReviewSession2SP19.pptx)
+
+
