@@ -40,11 +40,11 @@ SPRING 2019
 
 [ECE 210](/assets/files/HKNECE210ReviewSession2SP19.pptx)
 
-[ECE 342 Slides](/assets/files/HKNECE324ReviewSession2SP19.pptx) [Worked Problem](/assets/files/ECE342hw6_2f.pdf)
+[ECE 342 Slides](/assets/files/HKNECE342ReviewSession2SP19.pptx)    [Worked Problem](/assets/files/ECE342hw6_2f.pdf)
 
 
 ### Final Exam Review Sessions:
 
-[PHYS 214](/assets/files/HKNECE342ReviewSession2SP19.pptx)
+[PHYS 214](/assets/files/HKNPHYS214ReviewSession2SP19.pptx)
 
 
