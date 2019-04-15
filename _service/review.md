@@ -52,6 +52,12 @@ SPRING 2019
 
 [ECE 313](/assets/files/HKNECE313ReviewSession2SP19.pptx)
 
+### Third Midterm Review Sessions
+
+[ECE 210](/assets/files/HKNECE210ReviewSession3SP19.pptx)
+
+[ECE 329](/assets/files/HKNECE329ReviewSession3SP19.pptx)
+
 
 ### Final Exam Review Sessions:
 
