@@ -61,6 +61,8 @@ SPRING 2019
 [ECE 110 Slides](/assets/files/HKNECE110ReviewSession3SP18.pdf)     [Handout Solutions](/assets/files/HKNECE110ReviewSession3SP18_handout_soln.pdf)
 ### Final Exam Review Sessions:
 
+[PHYS 213](/assets/files/HKNPHYS213ReviewSession2SP19.pptx)
+
 [PHYS 214](/assets/files/HKNPHYS214ReviewSession2SP19.pptx)
 
 
