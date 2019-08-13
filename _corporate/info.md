@@ -2,7 +2,7 @@
 title: Corporate
 ---
 
-#### Please contact Nathan Narasimhan at nanaras2@illinois.edu with questions or to set up a corporate event with HKN.
+#### Please contact Kanad Sarkar at kanads2@illinois.edu with questions or to set up a corporate event with HKN.
 Companies interested in our talented bunch of ECE students can request an electronic copy of our active member resume book.
 
 <br />
@@ -16,7 +16,7 @@ In addition, we help companies advertise career opportunities and campus events 
 Workshops
 ---
 Technical workshops teach students about current software, hardware, engineering and business concepts to be competitive in today’s market. Typically these are focused on a particular skill or using a specific tool. Companies can sponsor, and teach, these technical workshops to gear them towards any skills or products they would like to showcase.
-Additionally, HKN will help companies host on-campus hackathons by providing advertisements, staffing, etc. 
+Additionally, HKN will help companies host on-campus hackathons by providing advertisements, staffing, etc.
 <br /> <br />
 
 Outreach Events

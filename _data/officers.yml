@@ -1,51 +1,51 @@
-- name: Molly Fane
+- name: Nathan Narasimhan
   title: President
-  email: mkfane2@illinois.edu
-
-- name: Somie Park
-  title: Vice President
-  email: spark270@illinois.edu
+  email: nanaras2@illinois.edu
 
 - name: Nikhil Parmar
-  title: Treasurer
+  title: Vice President
   email: nparmar2@illinois.edu
 
 - name: Tori Colthurst
-  title: Director of Technology
+  title: Treasurer
   email: vrc2@illinois.edu
 
-- name: Nathan Narasimhan
-  title: Director of Corporate Affairs
-  email: nanaras2@illinois.edu
-
-- name: Steven Kolaczkowski
-  title: Director of Student Services
-  email: kolaczk2@illinois.edu
-
-- name: Kanad Sarkar
-  title: Director of Outreach
-  email: kanads2@illinois.edu
-
-- name: Milan Shah
-  title: Secretary
-  email: mrshah3@illinois.edu
-
-- name: Srijan Chakraborty
-  title: Director of Publicity
-  email: srijanc2@illinois.edu
-
 - name: Aditya Chitnis
-  title: Director of Operations
+  title: Director of Technology
   email: aac2@illinois.edu
 
-- name: Yda Hoffer-Sohn
+- name: Kanad Sarkar
+  title: Director of Corporate Affairs
+  email: kanads2@illinois.edu
+
+- name: Keshav Harisrikanth
+  title: Director of Student Services
+  email: keshavh2@illinois.edu
+
+- name: Sanat Pandey
+  title: Director of Outreach
+  email: sanatp2@illinois.edu
+
+- name: Teja Gupta
+  title: Secretary
+  email: tejag2@illinois.edu
+
+- name: Pranith Bottu
+  title: Director of Publicity
+  email: pbottu2@illinois.edu
+
+- name: Advaith Ravikumar
+  title: Director of Operations
+  email: advaith2@illinois.edu
+
+- name: Gauri Konanoor
   title: Director of Initiate Affairs
-  email: yhh2@illinois.edu
+  email: gmk2@illinois.edu
 
 - name: Joseph Ravichandran
   title: Director of Events
   email: jpr3@illinois.edu
 
-- name: Richard Nai
+- name: Srijan Chakraborty
   title: Director of Information
-  email: rnai2@illinois.edu
+  email: srijanc2@illinois.edu
