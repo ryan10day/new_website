@@ -20,13 +20,13 @@ Soon, former initiates might come up looking for for their membership certificat
 
 Points Spreadsheet
 ---
-Check out your point totals [over here](https://docs.google.com/spreadsheets/d/1ZKrPiVwirtU2iX8xhpKUYdfL5wsBDptmHlsBjZr20nY/edit?usp=sharing)!
+Check out your point totals [over here](https://docs.google.com/spreadsheets/d/1Od3tQ1VqK17Vib8clJ-gxdm3udttFYJNsYXiYsyL78c/edit?usp=sharing)!
 
-If they are not up to date, be sure to e-mail Yda!
+If they are not up to date, be sure to e-mail Gauri!
 
 
 Office Hours Schedule
 ---------------------
 HKN initiate weekly office hours schedule:
 
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vS5TuCV40C9Q6tphIEGK5ZKcyXsTr7PIE62c2FChev7knbts2VxHI-ZBbtFDJi-NPxg7YRKx_ycXbx-/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false" width="100%" height="550vh" frameborder="0"></iframe>
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRn2EnVkzGfVf4dVpYtg1OstdSCTCUzwtL8lgqhpyPYWE2NGcQn1EoL_axbZCRSxw574vGyBP8CMqj6/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false" width="100%" height="450vh" frameborder="0"></iframe>
