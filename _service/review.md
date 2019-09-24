@@ -18,7 +18,8 @@ FALL 2019
 [ECE 329](/assets/files/HKNECE329ReviewSession1FA19.pptx)
 
 [ECE 210](/assets/files/HKNECE210ReviewSession1SP19.pptx)
-    [ECE 210 Q&A](/assets/files/HKNECE210ReviewQuestions1FA19.docx)
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[ECE 210 Q&A](/assets/files/HKNECE210ReviewQuestions1FA19.docx)
 
 
 [ECE 120](/assets/files/HKNECE120ReviewSession1FA19.pptx)
