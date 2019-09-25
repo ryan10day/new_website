@@ -24,7 +24,7 @@ FALL 2019
 
 [ECE 120](/assets/files/HKNECE120ReviewSession1FA19.pptx)
 
-[ECE 342](/assets/files/HKNECE210ReviewSession1FA19.pptx)
+[ECE 342](/assets/files/HKNECE342ReviewSession1FA19.pptx)
 
 
 
