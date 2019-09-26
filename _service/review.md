@@ -8,6 +8,26 @@ title: Review Sessions
 
 <br />
 
+FALL 2019
+---------
+
+### First Midterm Review Sessions:
+
+[PHYS 214](/assets/files/HKNPHYS214ReviewSession1SP19.pptx)
+
+[ECE 329](/assets/files/HKNECE329ReviewSession1FA19.pptx)
+
+[ECE 210](/assets/files/HKNECE210ReviewSession1SP19.pptx)
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[ECE 210 Q&A](/assets/files/HKNECE210ReviewQuestions1FA19.docx)
+
+
+[ECE 120](/assets/files/HKNECE120ReviewSession1FA19.pptx)
+
+[ECE 342](/assets/files/HKNECE342ReviewSession1FA19.pptx)
+
+
+
 SPRING 2019
 -----------
 
