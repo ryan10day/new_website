@@ -9,4 +9,4 @@ HKN is the international honor society for electrical and computer engineers. Es
 While one of its purposes certainly is the reward of scholarship, Eta Kappa Nu has a far broader purpose than merely to award a badge of distinction to scholars. As conceived by its founders and as carried forward by its members for more than two generations, another aim is to assist its members throughout their lives in becoming better professionals. HKN encourages members to improve the standards of the profession, the courses of instruction, and the institutions generally where its chapters are established.
 
 
-For more information, visit the national website at [hkn.org](hkn.org).
+For more information, visit the national website at [hkn.org](https://hkn.ieee.org/).
