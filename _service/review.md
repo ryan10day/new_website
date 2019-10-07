@@ -33,6 +33,12 @@ FALL 2019
 
 [ECE 110](/assets/files/HKNECE110ReviewSession1FA19.pptx)
 
+[ECE 385](/assets/files/HKNECE385ReviewSession1FA19.pptx)
+
+[ECE 313](/assets/files/HKNECE313ReviewSession1FA19.pptx)
+
+[ECE 340](/assets/files/HKNECE340ReviewSession1FA19.pdf)
+
 
 SPRING 2019
 -----------
