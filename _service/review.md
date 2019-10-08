@@ -38,6 +38,7 @@ FALL 2019
 [ECE 313](/assets/files/HKNECE313ReviewSession1FA19.pptx)
 
 [ECE 340](/assets/files/HKNECE340ReviewSession1FA19.pdf)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[ECE 340 Questions](/assets/files/HKNECE340ReviewSession1QuestionsFA19.pdf)
 
 
 SPRING 2019
