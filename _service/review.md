@@ -41,6 +41,10 @@ FALL 2019
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[ECE 340 Questions](/assets/files/HKNECE340ReviewSession1QuestionsFA19.pdf)
 
+### First Midterm Review Sessions:
+
+[ECE 329](/assets/files/HKNECE329ReviewSession2FA19.pptx)
+
 ### Final Exam Review Sessions:
 
 [PHYS 214](/assets/files/HKNPHYS214ReviewSession2FA19.pptx)
