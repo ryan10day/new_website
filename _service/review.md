@@ -45,6 +45,12 @@ FALL 2019
 
 [ECE 329](/assets/files/HKNECE329ReviewSession2FA19.pptx)
 
+[ECE 210](/assets/files/HKNECE210ReviewSession2FA19.pptx)
+
+[ECE 342](/assets/files/HKNECE342ReviewSession2FA19.pptx)
+
+[ECE 120](/assets/files/HKNECE120ReviewSession2FA19.pptx)
+
 ### Final Exam Review Sessions:
 
 [PHYS 214](/assets/files/HKNPHYS214ReviewSession2FA19.pptx)
