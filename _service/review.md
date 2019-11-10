@@ -41,6 +41,10 @@ FALL 2019
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[ECE 340 Questions](/assets/files/HKNECE340ReviewSession1QuestionsFA19.pdf)
 
+[PHYS 213](/assets/files/HKNPHYS213ReviewSession1FA19.pdf)
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[PHYS 213 Answer Key](/assets/files/HKNPHYS213ReviewSession1AnswersFA19.pdf)
+
 ### Second Midterm Review Sessions:
 
 [ECE 329](/assets/files/HKNECE329ReviewSession2FA19.pptx)
@@ -56,6 +60,14 @@ FALL 2019
 [ECE 220](/assets/files/HKNECE220ReviewSession2FA19.pptx)
 
 [ECE 310](/assets/files/HKNECE310ReviewSession2FA19.pptx)
+
+[ECE 313](/assets/files/HKNECE313ReviewSession2FA19.pptx)
+
+[ECE 385](/assets/files/HKNECE385ReviewSession2FA19.pptx)
+
+### Third Midterm Review Sessions:
+
+[ECE 329](/assets/files/HKNECE329ReviewSession3FA19.pptx)
 
 ### Final Exam Review Sessions:
 
