@@ -41,9 +41,9 @@ FALL 2019
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[ECE 340 Questions](/assets/files/HKNECE340ReviewSession1QuestionsFA19.pdf)
 
-[PHYS 213](/assets/files/HKNPHYS213ReviewSession1FA19.pdf)
+[PHYS 213](/assets/files/HKNPHYS213ReviewSession1FA19.pptx)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[PHYS 213 Answer Key](/assets/files/HKNPHYS213ReviewSession1AnswersFA19.pdf)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[PHYS 213 Answer Key](/assets/files/HKNPHYS213ReviewSession1AnswersFA19.txt)
 
 ### Second Midterm Review Sessions:
 
