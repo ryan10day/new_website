@@ -65,6 +65,10 @@ FALL 2019
 
 [ECE 385](/assets/files/HKNECE385ReviewSession2FA19.pptx)
 
+[ECE 340](/assets/files/HKNECE340ReviewSession2FA19.pdf)
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[ECE 340 Questions](/assets/files/HKNECE340ReviewSession2QuestionsFA19.pdf)
+
 ### Third Midterm Review Sessions:
 
 [ECE 329](/assets/files/HKNECE329ReviewSession3FA19.pptx)
