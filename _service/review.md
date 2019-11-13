@@ -13,7 +13,7 @@ FALL 2019
 
 ### First Midterm Review Sessions:
 
-[PHYS 214](/assets/files/HKNPHYS214ReviewSession1SP19.pptx)
+[PHYS 214](/assets/files/HKNPHYS214ReviewSession1FA19.pptx)
 
 [ECE 329](/assets/files/HKNECE329ReviewSession1FA19.pptx)
 
@@ -21,12 +21,61 @@ FALL 2019
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[ECE 210 Q&A](/assets/files/HKNECE210ReviewQuestions1FA19.docx)
 
-
 [ECE 120](/assets/files/HKNECE120ReviewSession1FA19.pptx)
 
 [ECE 342](/assets/files/HKNECE342ReviewSession1FA19.pptx)
 
+[ECE 310](/assets/files/HKNECE310ReviewSession1FA19.pptx)
 
+[ECE 391](/assets/files/HKNECE391ReviewSession1FA19.pdf)
+
+[ECE 220](/assets/files/HKNECE220ReviewSession1FA19.pptx)
+
+[ECE 110](/assets/files/HKNECE110ReviewSession1FA19.pptx)
+
+[ECE 385](/assets/files/HKNECE385ReviewSession1FA19.pptx)
+
+[ECE 313](/assets/files/HKNECE313ReviewSession1FA19.pptx)
+
+[ECE 340](/assets/files/HKNECE340ReviewSession1FA19.pdf)
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[ECE 340 Questions](/assets/files/HKNECE340ReviewSession1QuestionsFA19.pdf)
+
+[PHYS 213](/assets/files/HKNPHYS213ReviewSession1FA19.pptx)
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[PHYS 213 Answer Key](/assets/files/HKNPHYS213ReviewSession1AnswersFA19.txt)
+
+### Second Midterm Review Sessions:
+
+[ECE 329](/assets/files/HKNECE329ReviewSession2FA19.pptx)
+
+[ECE 210](/assets/files/HKNECE210ReviewSession2FA19.pptx)
+
+[ECE 342](/assets/files/HKNECE342ReviewSession2FA19.pptx)
+
+[ECE 120](/assets/files/HKNECE120ReviewSession2FA19.pptx)
+
+[ECE 110](/assets/files/HKNECE110ReviewSession2FA19.pptx)
+
+[ECE 220](/assets/files/HKNECE220ReviewSession2FA19.pptx)
+
+[ECE 310](/assets/files/HKNECE310ReviewSession2FA19.pptx)
+
+[ECE 313](/assets/files/HKNECE313ReviewSession2FA19.pptx)
+
+[ECE 385](/assets/files/HKNECE385ReviewSession2FA19.pptx)
+
+[ECE 340](/assets/files/HKNECE340ReviewSession2FA19.pdf)
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[ECE 340 Questions](/assets/files/HKNECE340ReviewSession2QuestionsFA19.pdf)
+
+### Third Midterm Review Sessions:
+
+[ECE 329](/assets/files/HKNECE329ReviewSession3FA19.pptx)
+
+### Final Exam Review Sessions:
+
+[PHYS 214](/assets/files/HKNPHYS214ReviewSession2FA19.pptx)
 
 SPRING 2019
 -----------
