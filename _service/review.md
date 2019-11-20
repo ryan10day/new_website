@@ -75,6 +75,8 @@ FALL 2019
 
 [ECE 120](/assets/files/HKNECE120ReviewSession3FA19.pptx)
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[ECE 120 Q&A](/assets/files/HKNECE120ReviewSession3QuestionsFA19.pdf)
+
 [ECE 210](/assets/files/HKNECE210ReviewSession3FA19.pptx)
 
 ### Final Exam Review Sessions:
