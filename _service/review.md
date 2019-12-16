@@ -83,6 +83,8 @@ FALL 2019
 
 [PHYS 214](/assets/files/HKNPHYS214ReviewSession2FA19.pptx)
 
+[PHYS 213](/assets/files/HKNPHYS213ReviewSession2FA19.pptx)
+
 SPRING 2019
 -----------
 
