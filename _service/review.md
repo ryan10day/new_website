@@ -16,6 +16,8 @@ SPRING 2020
 
 [ECE 120](/assets/files/HKNECE120ReviewSession1SP20.pptx)
 
+[ECE 210](/assets/files/HKNECE210ReviewSession1SP20.pptx)
+
 FALL 2019
 ---------
 
