@@ -9,6 +9,9 @@ title: Review Sessions
 <br />
 SPRING 2020
 ---------
+
+### First Midterm Review Sessions:
+
 [PHYS 214](/assets/files/HKNPHYS214ReviewSession1SP20.pptx)
 
 [ECE 120](/assets/files/HKNECE120ReviewSession1SP20.pptx)
