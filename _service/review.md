@@ -7,6 +7,7 @@ title: Review Sessions
 [Find review session slides sooner, or browse the archive of resources from years past here.](https://drive.google.com/open?id=121a768cDE0hUsoKjNXZyj4shFhwZ3ikd)
 
 <br />
+
 SPRING 2020
 ---------
 
