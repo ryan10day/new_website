@@ -100,6 +100,9 @@ FALL 2019
 
 [PHYS 213](/assets/files/HKNPHYS213ReviewSession2FA19.pptx)
 
+
+<!---
+
 SPRING 2019
 -----------
 
@@ -159,4 +162,4 @@ SPRING 2019
 
 [ECE 110](/assets/files/HKNECE110ReviewSession3SP19.pptx)
 
-
+-->
