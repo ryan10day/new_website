@@ -16,9 +16,7 @@ PHYS  212, 213, 214
 
 We also assist course staff in their review sessions if they need help from HKN. This is also a great chance for our members to get involved and to practice presentation skills in an academic context.
 
-<br /> <br />
-
-<br />
+<br /> 
 
 Tutoring:
 ---
