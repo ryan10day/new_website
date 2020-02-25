@@ -8,6 +8,21 @@ title: Review Sessions
 
 <br />
 
+SPRING 2020
+---------
+
+### First Midterm Review Sessions:
+
+[PHYS 214](/assets/files/HKNPHYS214ReviewSession1SP20.pptx)
+
+[ECE 120](/assets/files/HKNECE120ReviewSession1SP20.pptx)
+
+[ECE 210](/assets/files/HKNECE210ReviewSession1SP20.pptx)
+
+[ECE 329](/assets/files/HKNECE329ReviewSession1SP20.pptx)
+
+[ECE 110](/assets/files/HKNECE110ReviewSession1SP20.pptx)
+
 FALL 2019
 ---------
 
@@ -85,6 +100,9 @@ FALL 2019
 
 [PHYS 213](/assets/files/HKNPHYS213ReviewSession2FA19.pptx)
 
+
+<!---
+
 SPRING 2019
 -----------
 
@@ -144,4 +162,4 @@ SPRING 2019
 
 [ECE 110](/assets/files/HKNECE110ReviewSession3SP19.pptx)
 
-
+-->

@@ -16,11 +16,7 @@ PHYS  212, 213, 214
 
 We also assist course staff in their review sessions if they need help from HKN. This is also a great chance for our members to get involved and to practice presentation skills in an academic context.
 
-<br /> <br />
-
-<iframe width="100%" height="515vh" allowfullscreen style="border-style:none;" src="https://cdn.pannellum.org/2.4/pannellum.htm?panorama=https://i.imgur.com/cKYlOFm.jpg&amp;haov=250.00&amp;vaov=130.00"></iframe>
-
-<br />
+<br /> 
 
 Tutoring:
 ---
@@ -31,7 +27,7 @@ HKN offers free one-on-one peer tutoring. Simply contact a tutor to arrange a ti
 After the tutoring session, please fill out the [Tutor Feedback Form](https://docs.google.com/forms/d/e/1FAIpQLSc_rYq-oWdd_A8Cn3e0vZ4dgkUtsiknGtILpbQFWhoN8Dr6YA/viewform). We appreciate your input!
 
 Available Tutors List:
-<iframe src="https://docs.google.com/spreadsheets/d/1mondCBvHrsgeYok94dI0mqP30Ue5un-gsjfXfN1VK8s/edit?usp=sharing&amp;single=true&amp;widget=true&amp;headers=false" width="100%" height="515vh" frameborder="0"></iframe>
+<iframe src="https://docs.google.com/spreadsheets/d/1e_xOd_bYwxrQzyzBQZcb1H1y1WKPKu4gakhIelzrbY0/edit?usp=sharing&amp;single=true&amp;widget=true&amp;headers=false" width="100%" height="515vh" frameborder="0"></iframe>
 
 <br />
 
