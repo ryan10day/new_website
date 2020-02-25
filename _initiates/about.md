@@ -20,7 +20,7 @@ Soon, former initiates might come up looking for for their membership certificat
 
 Points Spreadsheet
 ---
-Check out your point totals [over here](https://docs.google.com/spreadsheets/d/1Od3tQ1VqK17Vib8clJ-gxdm3udttFYJNsYXiYsyL78c/edit?usp=sharing)!
+Check out your point totals [over here](https://docs.google.com/spreadsheets/d/1AJhKx--6ogv4UgvOEEeYc0687etw2WwHajkEep3sRJ0/edit)!
 
 If they are not up to date, be sure to e-mail Gauri!
 
