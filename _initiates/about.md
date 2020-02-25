@@ -16,7 +16,7 @@ Be sure to take your quiz during your office hours and fill out the google form 
 
 Member Certificates
 ---
-Soon, former initiates might come up looking for for their membership certificates during your office hours. Don’t panic. The file-folio that contains them is located in the bottom right-hand drawer of the office hours desk, and is organized by the semester that the initiation occurred. You can locate the specific certificate being requested by name and initiation semester.
+Soon, former initiates might come up looking for their membership certificates during your office hours. Don’t panic. The file-folio that contains them is located in the bottom right-hand drawer of the office hours desk, and is organized by the semester that the initiation occurred. You can locate the specific certificate being requested by name and initiation semester.
 
 Points Spreadsheet
 ---
