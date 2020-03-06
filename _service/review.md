@@ -23,6 +23,28 @@ SPRING 2020
 
 [ECE 110](/assets/files/HKNECE110ReviewSession1SP20.pptx)
 
+[ECE 220](/assets/files/HKNECE220ReviewSession1SP20.pptx)
+
+[ECE 391](/assets/files/HKNECE391ReviewSession1SP20.pdf)
+
+[ECE 310](/assets/files/HKNECE310ReviewSession1SP20.pptx)
+
+[ECE 313](/assets/files/HKNECE313ReviewSession1SP20.pptx)
+
+[ECE 340](/assets/files/HKNECE340ReviewSession1SP20.pdf)
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[ECE 340 Questions](/assets/files/HKNECE340ReviewSession1QuestionsSP20.pdf)
+
+[ECE 342](/assets/files/HKNECE342ReviewSession1SP20.pptx)
+
+[ECE 385](/assets/files/HKNECE385ReviewSession1SP20.pptx)
+
+[ECE 411](/assets/files/HKNECE411ReviewSession1SP20.pptx)
+
+### Final Exam Review Sessions:
+
+[PHYS 214](/assets/files/HKNPHYS214ReviewSession2SP20.pptx)
+
 FALL 2019
 ---------
 
