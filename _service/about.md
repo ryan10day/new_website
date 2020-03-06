@@ -4,19 +4,17 @@ title: Student Services
 
 Review sessions:
 ---
-We provide review sessions before exams for:
+We provide review sessions in Spring 2020 for the following classes:
 
 ECE   110, 120, 210, 220
 
-ECE   310, 313, 329, 340, 342, 391
+ECE   310, 313, 329, 340, 342, 391, 411
 
-CS    374
-
-PHYS  212, 213, 214
+PHYS  213, 214
 
 We also assist course staff in their review sessions if they need help from HKN. This is also a great chance for our members to get involved and to practice presentation skills in an academic context.
 
-<br /> 
+<br />
 
 Tutoring:
 ---

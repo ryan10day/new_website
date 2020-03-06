@@ -2,7 +2,7 @@
 title: Initiates  
 ---
 
-Welcome to the HKN Initiates Page! Important Information will be posted here as it is created for the current semester’s initiate class. If you have any questions about any of the content here please email Gauri Konanoor, the Director of Initiate Affairs (gmk2@illinois.edu).
+Welcome to the HKN Initiates Page! Important Information will be posted here as it is created for the current semester’s initiate class. If you have any questions about any of the content here please email Marwan Eladl, the Director of Initiate Affairs (meladl@illinois.edu).
 
 <br />
 
@@ -22,11 +22,10 @@ Points Spreadsheet
 ---
 Check out your point totals [over here](https://docs.google.com/spreadsheets/d/1AJhKx--6ogv4UgvOEEeYc0687etw2WwHajkEep3sRJ0/edit)!
 
-If they are not up to date, be sure to e-mail Gauri!
+If they are not up to date, be sure to e-mail Marwan!
+
+<br />
 
 
-Office Hours Schedule
+Come Into The RSO Office!
 ---------------------
-HKN initiate weekly office hours schedule:
-
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRn2EnVkzGfVf4dVpYtg1OstdSCTCUzwtL8lgqhpyPYWE2NGcQn1EoL_axbZCRSxw574vGyBP8CMqj6/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false" width="100%" height="450vh" frameborder="0"></iframe>
