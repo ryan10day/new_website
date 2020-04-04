@@ -41,6 +41,10 @@ SPRING 2020
 
 [ECE 411](/assets/files/HKNECE411ReviewSession1SP20.pptx)
 
+### Second Midterm Review Sessions:
+
+[ECE 220](/assets/files/HKNECE220ReviewSession2SP20.pptx)
+
 ### Final Exam Review Sessions:
 
 [PHYS 214](/assets/files/HKNPHYS214ReviewSession2SP20.pptx)
