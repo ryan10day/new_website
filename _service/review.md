@@ -51,7 +51,7 @@ SPRING 2020
 
 [ECE 310](/assets/files/HKNECE310ReviewSession2SP20.pdf)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[ECE 313 Solutions](/assets/files/HKNECE310ReviewSession2SP20_solutions.pdf)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[ECE 310 Solutions](/assets/files/HKNECE310ReviewSession2SP20_solutions.pdf)
 
 [ECE 340](/assets/files/HKNECE340ReviewSession1FA19.pdf)
 
