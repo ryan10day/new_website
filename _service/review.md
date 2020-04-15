@@ -49,6 +49,12 @@ SPRING 2020
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[ECE 313 Solutions](/assets/files/HKNECE313ReviewSession2SP20_Solutions.pdf)
 
+[ECE 310](/assets/files/HKNECE310ReviewSession2SP20.pdf)
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[ECE 313 Solutions](/assets/files/HKNECE310ReviewSession2SP20_solutions.pdf)
+
+[ECE 340](/assets/files/HKNECE340ReviewSession1FA19.pdf)
+
 ### Final Exam Review Sessions:
 
 [PHYS 214](/assets/files/HKNPHYS214ReviewSession2SP20.pptx)
