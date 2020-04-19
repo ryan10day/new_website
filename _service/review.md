@@ -55,6 +55,10 @@ SPRING 2020
 
 [ECE 340](/assets/files/HKNECE340ReviewSession1FA19.pdf)
 
+### Third Midterm Review Sessions:
+
+[ECE 110 HANDOUT](/assets/files/HKNECE110ReviewSession3SP20_handout.pdf)
+
 ### Final Exam Review Sessions:
 
 [PHYS 214](/assets/files/HKNPHYS214ReviewSession2SP20.pptx)
