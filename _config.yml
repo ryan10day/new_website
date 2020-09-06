@@ -11,6 +11,7 @@ collections:
   - initiates
   - corporate
   - main
+  - talks
 
 plugins:
   - jekyll-analytics

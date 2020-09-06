@@ -1,20 +1,14 @@
 ---
 layout: page
 ---
-{% for entry in site.corporate %}
+{% for entry in site.talks %}
 <div>
-    {% if entry.title != blank %}
     <h1><a name="{{entry.tag}}">{{entry.title}}</a></h1>
-    {% endif %}
     <p>{{entry.content}}</p>
 </div>
 {% endfor %}
 
 
 {% contentfor hero-image-title %}
-Corporate
-{% endcontentfor %}
-
-{% contentfor sidebar-title %}
-Corporate
+Talks
 {% endcontentfor %}

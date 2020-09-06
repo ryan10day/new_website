@@ -1,0 +1,5 @@
+---
+title: Talks  
+---
+
+- 09/05/2020 - [Becoming a Git Wizard](\assets\presentations\git.pdf) (Dave Boutcher, Ocient Principle Engineer)
