@@ -4,7 +4,7 @@ title: Student Services
 
 Review sessions:
 ---
-We provide review sessions in Spring 2020 for the following classes:
+We provide review sessions in Fall 2020 for the following classes:
 
 ECE   110, 120, 210, 220
 
