@@ -8,68 +8,107 @@ title: Review Sessions
 
 <br />
 
-FALL 2020
 ---------
 
 ### First Midterm Review Sessions:
 PHYS 211 -
 [FA18](/assets/files/HKNPHYS211ReviewSession1FA18.pptx),
-[SP18](/assets/files/HKNPHYS211ReviewSession1SP18.ppt),
+[SP18](/assets/files/HKNPHYS211ReviewSession1SP18.ppt)
 
 PHYS 212 -
 [FA18](/assets/files/HKNPHYS211ReviewSession1FA18.pptx),
-[SP18](/assets/files/HKNPHYS211ReviewSession1SP18.pptx),
+[SP18](/assets/files/HKNPHYS211ReviewSession1SP18.pptx)
 
 PHYS 213 -
 [FA19](/assets/files/HKNPHYS213ReviewSession1FA19.pptx),
 [FA19 Answer Key](/assets/files/HKNPHYS213ReviewSession1AnswersFA19.txt),
-[SP19](/assets/files/HKNPHYS213ReviewSession1SP19.pptx)
+[SP19](/assets/files/HKNPHYS213ReviewSession1SP19.pptx),
+[FA18](/assets/files/HKNPHYS213ReviewSession1FA18.pptx),
+[SP18](/assets/files/HKNPHYS213ReviewSession1SP18.pptx)
 
 PHYS 214 -
 [SP20](/assets/files/HKNPHYS214ReviewSession1SP20.pptx),
 [SP20](/assets/files/HKNPHYS214ReviewSession1SP20.pptx),
 [FA19](/assets/files/HKNPHYS214ReviewSession1FA19.pptx),
-[SP19](/assets/files/HKNPHYS214ReviewSession1SP19.pptx)
+[SP19](/assets/files/HKNPHYS214ReviewSession1SP19.pptx),
+[FA18](/assets/files/Phys214Exam1FA18.pptx),
+[SP18](/assets/files/HKNPHYS214ReviewSession1SP18.pptx)
 
 ECE 110 -
 [SP20](/assets/files/HKNECE110ReviewSession1SP20.pptx),
 [FA19](/assets/files/HKNECE110ReviewSession1FA19.pptx),
-[SP19](/assets/files/HKNECE110ReviewSession1SP19.pptx)
+[SP19](/assets/files/HKNECE110ReviewSession1SP19.pptx),
+[FA18](/assets/files/HKNECE110ReviewSession1FA18.pptx),
+[SP18](/assets/files/HKNECE110ReviewSession1SP18.pdf),
+[SP18 Handout](/assets/files/HKNECE110ReviewSession1SP18_Handout.pdf),
+[SP18 Solutions](/assets/files/HKNECE110ReviewSession1SP18_Handout_Sols.pdf),
+[SP17](/assets/files/HKNECE110ReviewSession1SP17.pdf),
+[SP17 Worksheet](/assets/files/HKNECE110ReviewSession1WorksheetSP17.pdf),
+[SP17 Solutions](/assets/files/HKNECE110ReviewSession1WorksheetSolutionsSP17.pdf)
+
 
 ECE 120 -
 [FA20](/assets/files/HKNECE120ReviewSession1FA20 (1).pptx),
 [SP20](/assets/files/HKNECE120ReviewSession1SP20.pptx),
-[FA19](/assets/files/HKNECE120ReviewSession1FA19.pptx)
+[FA19](/assets/files/HKNECE120ReviewSession1FA19.pptx),
+[FA18](/assets/files/HKNECE120ReviewSession1FA18.pdf),
+[SP18](/assets/files/HKNECE120ReviewSession1SP18.pptx),
+[SP18 Handout](/assets/files/HKNECE120ReviewSession1SP18_Handout.pdf),
+[FA17](/assets/files/HKNECE120ReviewSession1FA17.pdf),
+[SP17](/assets/files/HKNECE120ReviewSession1SP17.pdf),
+[FA16](/assets/files/HKNECE120ReviewSession1FA16.pdf)
+
 
 ECE 210 -
 [FA20](/assets/files/HKNECE210ReviewSession1FA20.pptx),
 [SP20](/assets/files/HKNECE210ReviewSession1SP20.pptx),
 [FA19](/assets/files/HKNECE210ReviewSession1SP19.pptx),
 [FA19 Q&A](/assets/files/HKNECE210ReviewQuestions1FA19.docx),
-[SP19](/assets/files/HKNECE210ReviewSession1SP19.pptx)
+[SP19](/assets/files/HKNECE210ReviewSession1SP19.pptx),
+[FA18](/assets/files/HKNECE210ReviewSession1FA18.pdf),
+[SP18](/assets/files/HKNECE210ReviewSession1SP18.pdf),
+[FA17](/assets/files/HKNECE210ReviewSession1FA17.pdf),
+[SP17](/assets/files/HKNECE210ReviewSession1SP17.pdf),
+[FA16 1](/assets/files/HKNECE210ReviewSession1FA16pt1.pdf),
+[FA16 3](/assets/files/HKNECE210ReviewSession1FA16pt3.pdf)
 
 ECE 220 -
 [FA20](/assets/files/HKNECE220ReviewSession1FA20.pptx),
 [SP20](/assets/files/HKNECE220ReviewSession1SP20.pptx),
 [FA19](/assets/files/HKNECE220ReviewSession1FA19.pptx),
-[SP19](/assets/files/HKNECE220ReviewSession1SP19.pptx)
+[SP19](/assets/files/HKNECE220ReviewSession1SP19.pptx),
+[FA18](/assets/files/HKNECE220ReviewSession1FA18.pdf),
+[SP18](/assets/files/HKNECE220ReviewSession1SP18.pptx),
+[FA17](/assets/files/HKNECE220ReviewSession1FA17.pptx),
+[SP17](/assets/files/HKNECE220ReviewSession1SP17.pdf),
+[FA16](/assets/files/HKNECE220ReviewSession1FA16.pdf)
 
 ECE 310 -
 [SP20](/assets/files/HKNECE310ReviewSession1SP20.pptx),
 [FA19](/assets/files/HKNECE310ReviewSession1FA19.pptx),
-[SP19](/assets/files/HKNECE310ReviewSession1SP19.pptx)
+[SP19](/assets/files/HKNECE310ReviewSession1SP19.pptx),
+[FA18](/assets/files/HKNECE310ReviewSession1FA18.pptx),
+[SP18](/assets/files/HKNECE310ReviewSession1SP18.pdf),
+[SP17](/assets/files/HKNECE310ReviewSession1SP17.pdf)
 
 ECE 313 -
 [SP20](/assets/files/HKNECE313ReviewSession1SP20.pptx),
 [FA19](/assets/files/HKNECE313ReviewSession1FA19.pptx),
-[SP19](/assets/files/HKNECE313ReviewSession1SP19.pptx)
+[SP19](/assets/files/HKNECE313ReviewSession1SP19.pptx),
+[FA18](/assets/files/HKNECE313ReviewSession1FA18.pptx),
+[SP18](/assets/files/HKNECE313ReviewSession1SP18.pdf),
+[FA17](/assets/files/ECE313-Review-Session-1-Fa17.pdf),
+[FA17](/assets/files/HKNECE313ReviewSession1FA17.pdf),
+[FA16](/assets/files/HKNECE313ReviewSession1FA16.pdf)
 
 ECE 329 -
 [FA20](/assets/files/HKNECE329ReviewSession1FA20.pptx),
 [SP20](/assets/files/HKNECE329ReviewSession1SP20.pptx),
 [FA19](/assets/files/HKNECE329ReviewSession1FA19.pptx),
 [SP19](/assets/files/HKNECE329ReviewSession1SP19Review.pptx),
-[SP19 Problems](/assets/files/HKNECE329ReviewSession1SP19Problems.pptx)
+[SP19 Problems](/assets/files/HKNECE329ReviewSession1SP19Problems.pptx),
+[FA18](/assets/files/HKNECE329ReviewSession1FA18.pdf),
+[SP17](/assets/files/HKNECE329ReviewSession1SP17.pdf)
 
 ECE 340 -
 [SP20](/assets/files/HKNECE340ReviewSession1SP20.pdf),
@@ -81,7 +120,10 @@ ECE 342 -
 [FA20](/assets/files/HKNECE342ReviewSession1fa20.pptx),
 [SP20](/assets/files/HKNECE342ReviewSession1SP20.pptx),
 [FA19](/assets/files/HKNECE342ReviewSession1FA19.pptx),
-[SP19](/assets/files/HKNECE342ReviewSession1SP19.pptx)
+[SP19](/assets/files/HKNECE342ReviewSession1SP19.pptx),
+[FA18](/assets/files/HKNECE342ReviewSession1FA18.pptx),
+[SP18](/assets/files/ECE342-Review-Sessions-1-Sp18.pptx),
+[FA17](/assets/files/ECE342-Review-Session-1-Fa17.pptx)
 
 ECE 385 -
 [SP20](/assets/files/HKNECE385ReviewSession1SP20.pptx),
@@ -91,14 +133,19 @@ ECE 385 -
 ECE 391 -
 [FA20](/assets/files/fa2020_391_exam1.pdf),
 [SP20](/assets/files/HKNECE391ReviewSession1SP20.pdf),
-[FA19](/assets/files/HKNECE391ReviewSession1FA19.pdf)
+[FA19](/assets/files/HKNECE391ReviewSession1FA19.pdf),
+[SP18](/assets/files/HKNECE391ReviewSession1SP18.pdf)
 
 ECE 411 -
-[FA20](/assets/files/HKNECE411ReviewSession1FA20.pptx)
+[FA20](/assets/files/HKNECE411ReviewSession1FA20.pptx),
 [SP20](/assets/files/HKNECE411ReviewSession1SP20.pptx)
 
-<!-- CS 374 - -->
+CS 374 -
+[SP19](/assets/files/HKNCS374ReviewSession1SP19.pdf),
+[FA18](/assets/files/HKNCS374ReviewSession1FA18.pdf),
+[SP18](/assets/files/HKNECE374ReviewSession1SP18.pdf)
 
+---------
 ### Second Midterm Review Sessions:
 
 <!-- PHYS 211 -
@@ -162,6 +209,7 @@ ECE 411 - -->
 
 CS 374 - [SP19](/assets/files/HKNCS374ReviewSession1SP19.pdf)
 
+---------
 ### Third Midterm Review Sessions:
 
 <!-- PHYS 211 -
@@ -207,6 +255,7 @@ ECE 411 -
 
 CS 374 - -->
 
+---------
 ### Final Exam Review Sessions:
 
 <!-- PHYS 211 -
