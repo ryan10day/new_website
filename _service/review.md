@@ -49,6 +49,7 @@ ECE 210 -
 [SP19](/assets/files/HKNECE210ReviewSession1SP19.pptx)
 
 ECE 220 -
+[FA20](/assets/files/HKNECE220ReviewSession1FA20.pptx),
 [SP20](/assets/files/HKNECE220ReviewSession1SP20.pptx),
 [FA19](/assets/files/HKNECE220ReviewSession1FA19.pptx),
 [SP19](/assets/files/HKNECE220ReviewSession1SP19.pptx)
@@ -88,10 +89,12 @@ ECE 385 -
 [SP19](/assets/files/HKNECE385ReviewSession1SP19.pptx)
 
 ECE 391 -
+[FA20](/assets/files/fa2020_391_exam1.pdf),
 [SP20](/assets/files/HKNECE391ReviewSession1SP20.pdf),
 [FA19](/assets/files/HKNECE391ReviewSession1FA19.pdf)
 
 ECE 411 -
+[FA20](/assets/files/HKNECE411ReviewSession1FA20.pptx)
 [SP20](/assets/files/HKNECE411ReviewSession1SP20.pptx)
 
 <!-- CS 374 - -->

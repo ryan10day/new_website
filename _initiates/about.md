@@ -12,9 +12,9 @@ Slides From Initiation Information Session
 ---
 [HKN Information Session Slides](https://docs.google.com/presentation/d/1HujsWv8jSpSGb3k2qtDkqAFfRlKDgcm4gxn8WnG8dLk/edit?usp=sharing)
 
-Initiate Office Hour Quizzes
+<!-- Initiate Office Hour Quizzes
 ---------------------------
-Be sure to take your quiz during your office hours and fill out the google form from the whiteboard in the office!
+Be sure to take your quiz during your office hours and fill out the google form from the whiteboard in the office! -->
 
 Member Certificates
 ---
