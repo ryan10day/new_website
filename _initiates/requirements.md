@@ -8,7 +8,7 @@ Undergraduate Students
 * Get 15 total Points
 * at least 5 Service Points
 * at least 5 Social Points
-* Serve Office Hours Once a Week
+<!-- * Serve Office Hours Once a Week -->
 * Attend Mandatory Events
 
 Graduate Students
@@ -19,6 +19,6 @@ Graduates still have to pay dues ($100.00), but the rest of the requirements are
 * Graduate Panel / Graduate Project
 * Attend Initiation Ceremony
 
-Office Hours
+<!-- Office Hours
 ---
-An updated office hours schedule is above. If you cannot make your office hours for any reason, contact Yda (contact information on the Officers Page) to schedule a makeup office hour.
+An updated office hours schedule is above. If you cannot make your office hours for any reason, contact Liz (contact information on the Officers Page) to schedule a makeup office hour. -->
