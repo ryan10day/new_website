@@ -297,45 +297,60 @@ CS 374 - -->
 ---------
 ### Final Exam Review Sessions:
 
-<!-- PHYS 211 -
+<!-- PHYS 211 - -->
 
-PHYS 212 - -->
+PHYS 212 -
+[SP18](/assets/files/HKNPHYS212ReviewSession4SP18.pptx)
 
 PHYS 213 -
 [FA19](/assets/files/HKNPHYS213ReviewSession2FA19.pptx),
-[SP19](/assets/files/HKNPHYS213ReviewSession2SP19.pptx)
+[SP19](/assets/files/HKNPHYS213ReviewSession2SP19.pptx),
+[FA18](/assets/files/HKNPHYS213ReviewSession2FA18.pptx),
+[SP18](/assets/files/HKNPHYS213ReviewSession4SP18.pptx)
 
 PHYS 214 -
 [SP20](/assets/files/HKNPHYS214ReviewSession2SP20.pptx),
 [FA19](/assets/files/HKNPHYS214ReviewSession2FA19.pptx),
-[SP19](/assets/files/HKNPHYS214ReviewSession2SP19.pptx)
-
+[SP19](/assets/files/HKNPHYS214ReviewSession2SP19.pptx),
+[FA18](/assets/files/HKNPHYS214ReviewSession2FA18.pptx),
+[SP18](/assets/files/HKNPHYS214ReviewSession2SP18.pptx)
 
 ECE 110 -
-[SP19](/assets/files/HKNECE110ReviewSession3SP19.pptx)
+[SP19](/assets/files/HKNECE110ReviewSession3SP19.pptx),
+[FA18](/assets/files/HKNECE110ReviewSessionFinalFA18.pptx),
+[SP18](/assets/files/HKNECE110ReviewSession4SP18.pdf),
+[SP18 Solutions](/assets/files/HKNECE110ReviewSession4SP18_soln.pdf),
+[FA16](/assets/files/HKNECE110ReviewSessionFinalFA16.pdf)
 
-<!-- ECE 120 -
+
+<!-- ECE 120 - -->
 
 
 ECE 210 -
-
+[SP18](/assets/files/HKNECE210ReviewSession4SP18.pdf),
+[FA17](/assets/files/HKNECE210ReviewSession4FA17.pdf),
+[FA16](/assets/files/HKNECE210ReviewSessionFinalFA16.pdf)
 
 ECE 220 -
+[FA18](/assets/files/HKNECE220ReviewSessionFinalFA18.pdf)
 
-ECE 310 -
+<!-- ECE 310 - -->
 
 ECE 313 -
+[SP18](/assets/files/HKNECE313ReviewSession4SP18.pptx)
 
-ECE 329 -
+<!-- ECE 329 - -->
 
-ECE 340 -
+<!-- ECE 340 - -->
 
-ECE 342 -
+<!-- ECE 342 - -->
 
 ECE 385 -
+[FA19](/assets/files/HKNECE385ReviewSession2FA19.pptx)
 
-ECE 391 -
+<!-- ECE 391 - -->
 
-ECE 411 -
+<!-- ECE 411 - -->
 
-CS 374 - -->
+CS 374 -
+[SP18](/assets/files/HKNCS374ReviewSession4SP18.pdf)
