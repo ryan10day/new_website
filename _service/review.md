@@ -175,6 +175,7 @@ ECE 120 -
 [FA19](/assets/files/HKNECE120ReviewSession2FA19.pptx),
 [FA18](/assets/files/HKNECE120ReviewSession2FA18.pptx),
 [SP18](/assets/files/HKNECE120ReviewSession2SP18.pdf),
+[FA17](/assets/files/ECE120Review Session.pdf),
 [SP17](/assets/files/HKNECE120ReviewSession2SP17.pdf),
 [FA16](/assets/files/HKNECE120ReviewSession2FA16.pdf)
 
@@ -251,48 +252,70 @@ CS 374 -
 ---------
 ### Third Midterm Review Sessions:
 
-<!-- PHYS 211 -
+<!-- PHYS 211 - -->
 
 PHYS 212 -
+[FA18](/assets/files/HKNPHYS212ReviewSession3FA18.pptx),
+[SP18](/assets/files/HKNPHYS212ReviewSession3SP18.pptx)
 
-PHYS 213 -
+<!-- PHYS 213 - -->
 
-PHYS 214 - -->
+<!-- PHYS 214 - -->
 
 ECE 110 -
 [SP20](/assets/files/HKNECE110ReviewSession3SP20_handout.pdf),
 [SP19](/assets/files/HKNECE110ReviewSession3SP18.pdf),
-[SP19 Solutions](/assets/files/HKNECE110ReviewSession3SP18_handout_soln.pdf)
+[SP19 Solutions](/assets/files/HKNECE110ReviewSession3SP18_handout_soln.pdf),
+[FA18](/assets/files/HKNECE110ReviewSession3FA18.pptx),
+[SP18](/assets/files/HKNECE110ReviewSession3SP18.pdf),
+[SP18 Handout](/assets/files/HKNECE110ReviewSession3SP18_handout.pdf),
+[SP18 Solutions](/assets/files/HKNECE110ReviewSession3SP18_handout_soln.pdf),
+[FA16](/assets/files/HKNECE110ReviewSession3FA16.pdf),
+[FA16 Handout](/assets/files/HKNECE110ReviewSession3WorksheetFA16.pdf),
+[FA16 Solutions](/assets/files/HKNECE110ReviewSession3WorksheetSolutionsFA16.pdf)
 
 ECE 120 -
 [FA19](/assets/files/HKNECE120ReviewSession3FA19.pptx),
-[FA19 Q&A](/assets/files/HKNECE120ReviewSession3QuestionsFA19.pdf)
+[FA19 Q&A](/assets/files/HKNECE120ReviewSession3QuestionsFA19.pdf),
+[FA18](/assets/files/HKNECE120ReviewSession3FA18.pptx),
+[SP18](/assets/files/HKNECE120ReviewSession3SP18.pdf),
+[SP17](/assets/files/HKNECE120ReviewSession3SP17.pdf),
+[FA16](/assets/files/HKNECE120ReviewSession3FA16.pdf)
 
 ECE 210 -
 [FA19](/assets/files/HKNECE210ReviewSession3FA19.pptx),
-[SP19](/assets/files/HKNECE210ReviewSession3SP19.pptx)
+[SP19](/assets/files/HKNECE210ReviewSession3SP19.pptx),
+[FA18](/assets/files/HKNECE210ReviewSession3FA18.pptx),
+[SP18](/assets/files/HKNECE210ReviewSession3SP18.pdf),
+[FA17](/assets/files/HKNECE210ReviewSession3FA17.pdf),
+[SP17](/assets/files/HKNECE210ReviewSession3SP17.pdf),
+[FA16](/assets/files/HKNECE210ReviewSession3FA16.pdf)
 
-<!-- ECE 220 -
+<!-- ECE 220 - -->
 
-ECE 310 -
+<!-- ECE 310 - -->
 
-ECE 313 - -->
+<!-- ECE 313 - -->
 
 ECE 329 -
 [FA19](/assets/files/HKNECE329ReviewSession3FA19.pptx),
-[SP19](/assets/files/HKNECE329ReviewSession3SP19.pptx)
+[SP19](/assets/files/HKNECE329ReviewSession3SP19.pptx),
+[SP18](/assets/files/HKNECE329ReviewSession3SP18.zip),
+[FA17](/assets/files/ECE_329_exam_3_review_fa17.pdf),
+[SP17](/assets/files/HKNECE329ReviewSession3SP17.pdf)
 
-<!-- ECE 340 -
+<!-- ECE 340 - -->
 
 ECE 342 -
+[FA17](/assets/files/ECE_342_exam3_review_fa17.pdf)
 
-ECE 385 -
+<!-- ECE 385 - -->
 
-ECE 391 -
+<!-- ECE 391 - -->
 
-ECE 411 -
+<!-- ECE 411 - -->
 
-CS 374 - -->
+<!-- CS 374 - -->
 
 ---------
 ### Final Exam Review Sessions:
@@ -358,9 +381,11 @@ CS 374 -
 ---------
 ### Miscellaneous:
 
-- ECE 310 Quiz 4:
-  [FA16](/assets/files/HKNECE310ReviewSession4FA16.pdf)
-- ECE 310 Quiz 5:
-  [FA16](/assets/files/HKNECE310ReviewSession5FA16.pdf)
-- ECE 310 Quiz 6:
-  [FA16](/assets/files/HKNECE310ReviewSession6FA16.pdf)
+ECE 310 Quiz 4:
+[FA16](/assets/files/HKNECE310ReviewSession4FA16.pdf)
+
+ECE 310 Quiz 5:
+[FA16](/assets/files/HKNECE310ReviewSession5FA16.pdf)
+
+ECE 310 Quiz 6:
+[FA16](/assets/files/HKNECE310ReviewSession6FA16.pdf)
