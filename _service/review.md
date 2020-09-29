@@ -84,6 +84,7 @@ ECE 220 -
 [FA16](/assets/files/HKNECE220ReviewSession1FA16.pdf)
 
 ECE 310 -
+[FA20](/assets/files/HKN_ECE_310_Exam_1_Review_Session.pdf),
 [SP20](/assets/files/HKNECE310ReviewSession1SP20.pptx),
 [FA19](/assets/files/HKNECE310ReviewSession1FA19.pptx),
 [SP19](/assets/files/HKNECE310ReviewSession1SP19.pptx),
