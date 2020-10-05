@@ -4,21 +4,20 @@ title: Student Services
 
 Review sessions:
 ---
-We provide review sessions in Fall 2020 for the following classes:
+Check out the calendar for courses that we are offering review sessions that we are offering in Fall 2020.
 
-ECE   110, 120, 210, 220
-
-ECE   310, 313, 329, 340, 342, 391, 411
-
-PHYS  213, 214
+Archived review sessions can be found at the bottom of this page.
 
 We also assist course staff in their review sessions if they need help from HKN. This is also a great chance for our members to get involved and to practice presentation skills in an academic context.
+
+<iframe src="https://calendar.google.com/calendar/embed?src=hknalpha1%40gmail.com&ctz=America%2FChicago" width="100%" height="515vh" frameborder="0" scrolling="no"></iframe>
+
 
 <br />
 
 Tutoring:
 ---
-HKN offers free one-on-one peer tutoring. Simply contact a tutor to arrange a time. The tutor’s netid, and the courses for which they are offering tutoring are listed below. If you would like a tutor for a course that is not listed below, please reach out to Keshav Harisrikanth at keshavh2@illinois.edu, and we will be happy to arrange something. You can also check the [CARE website](http://publish.illinois.edu/engineering-care/) for tutoring and extra office hours in non-ECE required classes.
+HKN offers free one-on-one peer tutoring. Simply contact a tutor to arrange a time. The tutor’s netid, and the courses for which they are offering tutoring are listed below. If you would like a tutor for a course that is not listed below, please reach out to Kanad Sarkar at kanads2@illinois.edu, and we will be happy to arrange something. You can also check the [CARE website](http://publish.illinois.edu/engineering-care/) for tutoring and extra office hours in non-ECE required classes.
 
 #### Feedback:
 
