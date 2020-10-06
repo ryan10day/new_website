@@ -112,6 +112,7 @@ ECE 329 -
 [SP17](/assets/files/HKNECE329ReviewSession1SP17.pdf)
 
 ECE 340 -
+[FA20 Solutions](/assets/files/HKN_ECE_340_Exam_1_problem_set_solutions_FA20.pdf),
 [SP20](/assets/files/HKNECE340ReviewSession1SP20.pdf),
 [SP20 Questions](/assets/files/HKNECE340ReviewSession1QuestionsSP20.pdf),
 [FA19](/assets/files/HKNECE340ReviewSession1FA19.pdf),
