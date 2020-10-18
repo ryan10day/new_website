@@ -216,6 +216,7 @@ ECE 313 -
 [FA16](/assets/files/HKNECE313ReviewSession2FA16.pdf)
 
 ECE 329 -
+[FA20](https://illinois.zoom.us/rec/play/j9HxQYXH8VWUyTsjfzSQpw9BgYIfGytY-7qx_56dhfA8G-kXjm5Bz0Nf1BIKJ6Pm21Rd-z-vi5Viw-W5.RLKMuQzWetFrZYuT?continueMode=true&_x_zm_rtaid=lZtuntFjS9uYz3SshuQpTw.1603040583695.1725814af4b5f835f0ac2e3fb28165e5&_x_zm_rhtaid=909)
 [FA19](/assets/files/HKNECE329ReviewSession2FA19.pptx),
 [SP19](/assets/files/HKNECE329ReviewSession2SP19.pptx),
 [FA18](/assets/files/HKNECE329ReviewSession2FA18.pptx),
@@ -223,6 +224,7 @@ ECE 329 -
 [SP17](/assets/files/HKNECE329ReviewSession2SP17.pdf)
 
 ECE 340 -
+[FA20](https://illinois.zoom.us/rec/play/bycOV7o8r7AlrPJNMhkY46MkL1r_PVGtEv-uThdlvkxC8DWo6zGS-Q7ZxmyCHuOCvNirCPfZRR8Fd10W.1S4CFQysdpjwiH86?continueMode=true&_x_zm_rtaid=lZtuntFjS9uYz3SshuQpTw.1603040583695.1725814af4b5f835f0ac2e3fb28165e5&_x_zm_rhtaid=909)
 [SP20](/assets/files/HKNECE340ReviewSession1FA19.pdf),
 [FA19](/assets/files/HKNECE340ReviewSession2FA19.pdf),
 [FA19 Questions](/assets/files/HKNECE340ReviewSession2QuestionsFA19.pdf),
