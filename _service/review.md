@@ -164,6 +164,7 @@ PHYS 212 -
 PHYS 214 - -->
 
 ECE 110 -
+[FA20](/assets/files/HKNECE110ReviewSession2FA20.pptx),
 [FA19](/assets/files/HKNECE110ReviewSession2FA19.pptx),
 [SP19](/assets/files/HKNECE110ReviewSession2SP19.pdf),
 [SP19 Solutions](/assets/files/HKNECE110ReviewSession2SP19_handout_soln.pdf),
@@ -173,6 +174,7 @@ ECE 110 -
 [SP18 Solutions](/assets/files/HKNECE110ReviewSession2SP18_handout_soln.pdf)
 
 ECE 120 -
+[FA20](/assets/files/HKNECE120ReviewSession2FA20.pptx),
 [FA19](/assets/files/HKNECE120ReviewSession2FA19.pptx),
 [FA18](/assets/files/HKNECE120ReviewSession2FA18.pptx),
 [SP18](/assets/files/HKNECE120ReviewSession2SP18.pdf),
@@ -181,6 +183,7 @@ ECE 120 -
 [FA16](/assets/files/HKNECE120ReviewSession2FA16.pdf)
 
 ECE 210 -
+[FA20](/assets/files/HKNECE210ReviewSession2FA2020.pptx),
 [FA19](/assets/files/HKNECE210ReviewSession2FA19.pptx),
 [SP19](/assets/files/HKNECE210ReviewSession2SP19.pptx),
 [FA18](/assets/files/HKNECE210ReviewSession2FA18.pptx),
