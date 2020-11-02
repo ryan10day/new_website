@@ -245,7 +245,7 @@ ECE 342 -
 <!-- ECE 385 - -->
 
 ECE 391 -
-[SP20](assets/files/ECE391-Midterm2Review-Spring 2020.pdf),
+[SP20](/assets/files/ECE391-Midterm2Review-Spring 2020.pdf),
 [SP18](/assets/files/HKNECE391ReviewSession2SP18.pptx)
 
 
