@@ -17,7 +17,7 @@ We also assist course staff in their review sessions if they need help from HKN.
 
 Tutoring:
 ---
-HKN offers free one-on-one peer tutoring. Simply contact a tutor to arrange a time. The tutor’s netid, and the courses for which they are offering tutoring are listed below. If you would like a tutor for a course that is not listed below, please reach out to Kanad Sarkar at kanads2@illinois.edu, and we will be happy to arrange something. You can also check the [CARE website](http://publish.illinois.edu/engineering-care/) for tutoring and extra office hours in non-ECE required classes.
+HKN offers free one-on-one peer tutoring. Simply contact a tutor to arrange a time. The tutor’s netid, and the courses for which they are offering tutoring are listed below. If you would like a tutor for a course that is not listed below, please reach out to Alan Liu at afl2@illinois.edu, and we will be happy to arrange something. You can also check the [CARE website](http://publish.illinois.edu/engineering-care/) for tutoring and extra office hours in non-ECE required classes.
 
 #### Feedback:
 
