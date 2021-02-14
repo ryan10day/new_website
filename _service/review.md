@@ -27,6 +27,8 @@ PHYS 213 -
 [SP18](/assets/files/HKNPHYS213ReviewSession1SP18.pptx)
 
 PHYS 214 -
+[SP21](/assets/files/HKNPHYS214ReviewSession1SP21.pptx),
+[SP21 Annotated](/assets/files/HKNPHYS214ReviewSession1SP21Annotated.pptx),
 [SP20](/assets/files/HKNPHYS214ReviewSession1SP20.pptx),
 [SP20](/assets/files/HKNPHYS214ReviewSession1SP20.pptx),
 [FA19](/assets/files/HKNPHYS214ReviewSession1FA19.pptx),
