@@ -16,8 +16,9 @@ PHYS 211 -
 [SP18](/assets/files/HKNPHYS211ReviewSession1SP18.ppt)
 
 PHYS 212 -
-[FA18](/assets/files/HKNPHYS211ReviewSession1FA18.pptx),
-[SP18](/assets/files/HKNPHYS211ReviewSession1SP18.pptx)
+[SP21](/assets/files/HKNPHYS212ReviewSession1SP21.pptx),
+[FA18](/assets/files/HKNPHYS212ReviewSession1FA18.pptx),
+[SP18](/assets/files/HKNPHYS212ReviewSession1SP18.pptx)
 
 PHYS 213 -
 [FA19](/assets/files/HKNPHYS213ReviewSession1FA19.pptx),
