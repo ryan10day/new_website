@@ -108,6 +108,7 @@ ECE 313 -
 [FA16](/assets/files/HKNECE313ReviewSession1FA16.pdf)
 
 ECE 329 -
+[SP21](/assets/files/HKNECE329ReviewSession1SP21.pptx),
 [FA20](/assets/files/HKNECE329ReviewSession1FA20.pptx),
 [SP20](/assets/files/HKNECE329ReviewSession1SP20.pptx),
 [FA19](/assets/files/HKNECE329ReviewSession1FA19.pptx),
