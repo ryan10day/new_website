@@ -51,6 +51,7 @@ ECE 110 -
 
 
 ECE 120 -
+[SP21](/assets/files/HKNECE120ReviewSession1SP21.pptx),
 [FA20](/assets/files/HKNECE120ReviewSession1FA20 (1).pptx),
 [SP20](/assets/files/HKNECE120ReviewSession1SP20.pptx),
 [FA19](/assets/files/HKNECE120ReviewSession1FA19.pptx),
