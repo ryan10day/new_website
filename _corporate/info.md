@@ -2,7 +2,7 @@
 title: Corporate
 ---
 
-#### Please contact Kanad Sarkar at kanads2@illinois.edu with questions or to set up a corporate event with HKN.
+#### Please contact Ritesh Reddy at rareddy23@illinois.edu with questions or to set up a corporate event with HKN.
 Companies interested in our talented bunch of ECE students can request an electronic copy of our active member resume book.
 
 <br />
