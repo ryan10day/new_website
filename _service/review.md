@@ -16,8 +16,9 @@ PHYS 211 -
 [SP18](/assets/files/HKNPHYS211ReviewSession1SP18.ppt)
 
 PHYS 212 -
-[FA18](/assets/files/HKNPHYS211ReviewSession1FA18.pptx),
-[SP18](/assets/files/HKNPHYS211ReviewSession1SP18.pptx)
+[SP21](/assets/files/HKNPHYS212ReviewSession1SP21.pptx),
+[FA18](/assets/files/HKNPHYS212ReviewSession1FA18.pptx),
+[SP18](/assets/files/HKNPHYS212ReviewSession1SP18.pptx)
 
 PHYS 213 -
 [FA19](/assets/files/HKNPHYS213ReviewSession1FA19.pptx),
@@ -50,6 +51,7 @@ ECE 110 -
 
 
 ECE 120 -
+[SP21](/assets/files/HKNECE120ReviewSession1SP21.pptx),
 [FA20](/assets/files/HKNECE120ReviewSession1FA20 (1).pptx),
 [SP20](/assets/files/HKNECE120ReviewSession1SP20.pptx),
 [FA19](/assets/files/HKNECE120ReviewSession1FA19.pptx),
@@ -62,6 +64,7 @@ ECE 120 -
 
 
 ECE 210 -
+[SP21](/assets/files/HKNECE210ReviewSession1SP21.pptx),
 [FA20](/assets/files/HKNECE210ReviewSession1FA20.pptx),
 [SP20](/assets/files/HKNECE210ReviewSession1SP20.pptx),
 [FA19](/assets/files/HKNECE210ReviewSession1SP19.pptx),
@@ -105,6 +108,7 @@ ECE 313 -
 [FA16](/assets/files/HKNECE313ReviewSession1FA16.pdf)
 
 ECE 329 -
+[SP21](/assets/files/HKNECE329ReviewSession1SP21.pptx),
 [FA20](/assets/files/HKNECE329ReviewSession1FA20.pptx),
 [SP20](/assets/files/HKNECE329ReviewSession1SP20.pptx),
 [FA19](/assets/files/HKNECE329ReviewSession1FA19.pptx),
@@ -122,6 +126,7 @@ ECE 340 -
 [FA19 Questions](/assets/files/HKNECE340ReviewSession1QuestionsFA19.pdf)
 
 ECE 342 -
+[SP21](/assets/files/HKNECE342ReviewSession1SP21.pptx),
 [FA20](/assets/files/HKNECE342ReviewSession1fa20.pptx),
 [SP20](/assets/files/HKNECE342ReviewSession1SP20.pptx),
 [FA19](/assets/files/HKNECE342ReviewSession1FA19.pptx),
