@@ -38,6 +38,7 @@ PHYS 214 -
 [SP18](/assets/files/HKNPHYS214ReviewSession1SP18.pptx)
 
 ECE 110 -
+[SP20](/assets/files/HKNECE110ReviewSession1SP21.pptx),
 [SP20](/assets/files/HKNECE110ReviewSession1SP20.pptx),
 [FA19](/assets/files/HKNECE110ReviewSession1FA19.pptx),
 [SP19](/assets/files/HKNECE110ReviewSession1SP19.pptx),
