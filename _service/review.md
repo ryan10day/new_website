@@ -142,7 +142,7 @@ ECE 385 -
 [SP19](/assets/files/HKNECE385ReviewSession1SP19.pptx)
 
 ECE 391 -
-[SP20](/assets/files/HKNECE391ReviewSession1SP21.pdf),
+[SP21](/assets/files/HKNECE391ReviewSession1SP21.pdf),
 [FA20](/assets/files/fa2020_391_exam1.pdf),
 [SP20](/assets/files/HKNECE391ReviewSession1SP20.pdf),
 [FA19](/assets/files/HKNECE391ReviewSession1FA19.pdf),
