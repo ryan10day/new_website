@@ -261,8 +261,8 @@ ECE 391 -
 [SP20](/assets/files/ECE391-Midterm2Review-Spring 2020.pdf),
 [SP18](/assets/files/HKNECE391ReviewSession2SP18.pptx)
 
-
-<!-- ECE 411 - -->
+ECE 411 -
+[FA20](/assets/files/HKNECE411ReviewSession2FA20.pdf)
 
 CS 374 -
 [SP19](/assets/files/HKNCS374ReviewSession1SP19.pdf),
