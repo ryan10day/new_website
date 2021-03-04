@@ -262,7 +262,7 @@ ECE 391 -
 [SP18](/assets/files/HKNECE391ReviewSession2SP18.pptx)
 
 ECE 411 -
-[FA20](/assets/files/HKNECE411ReviewSession2FA20.pdf)
+[FA20](/assets/files/HKNECE411Review Session2FA20.pdf)
 
 CS 374 -
 [SP19](/assets/files/HKNCS374ReviewSession1SP19.pdf),
