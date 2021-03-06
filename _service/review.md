@@ -100,6 +100,7 @@ ECE 310 -
 [SP17](/assets/files/HKNECE310ReviewSession1SP17.pdf)
 
 ECE 313 -
+[SP21](/assets/files/HKNECE313ReviewSession1SP21.pptx),
 [SP20](/assets/files/HKNECE313ReviewSession1SP20.pptx),
 [FA19](/assets/files/HKNECE313ReviewSession1FA19.pptx),
 [SP19](/assets/files/HKNECE313ReviewSession1SP19.pptx),
