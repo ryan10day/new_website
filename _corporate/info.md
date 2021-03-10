@@ -21,7 +21,7 @@ Additionally, HKN will help companies host on-campus hackathons by providing adv
 
 Outreach Events
 ---
-Outreach events are focused on teaching fundamental Electrical and Computer Engineering concepts to the surrounding community through applications. Past examples include teaching Boy Scouts circuitry and soldering by creating an optical theremin. We appreciate co-hosting these events with your company representatives and it is a good way to give back to the surrounding community.
+Outreach events are focused on teaching fundamental Electrical and Computer Engineering concepts to the surrounding community through applications. Past examples include teaching Boy Scouts circuitry and soldering by creating an optical theremin. We appreciate co-hosting these events with your company representatives and it is a good way to give back to the community.
 <br /> <br />
 
 Social Events
