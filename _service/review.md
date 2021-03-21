@@ -235,6 +235,7 @@ ECE 313 -
 [FA16](/assets/files/HKNECE313ReviewSession2FA16.pdf)
 
 ECE 329 -
+[SP21](/assets/files/HKNECE329ReviewSession2SP21.pdf),
 [FA20](https://illinois.zoom.us/rec/play/j9HxQYXH8VWUyTsjfzSQpw9BgYIfGytY-7qx_56dhfA8G-kXjm5Bz0Nf1BIKJ6Pm21Rd-z-vi5Viw-W5.RLKMuQzWetFrZYuT?continueMode=true&_x_zm_rtaid=lZtuntFjS9uYz3SshuQpTw.1603040583695.1725814af4b5f835f0ac2e3fb28165e5&_x_zm_rhtaid=909)
 [FA19](/assets/files/HKNECE329ReviewSession2FA19.pptx),
 [SP19](/assets/files/HKNECE329ReviewSession2SP19.pptx),
