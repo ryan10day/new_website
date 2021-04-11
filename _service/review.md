@@ -21,6 +21,7 @@ PHYS 212 -
 [SP18](/assets/files/HKNPHYS212ReviewSession1SP18.pptx)
 
 PHYS 213 -
+[SP21](/assets/files/HKNPHYS213ReviewSessionQuiz1.pptx),
 [FA19](/assets/files/HKNPHYS213ReviewSession1FA19.pptx),
 [FA19 Answer Key](/assets/files/HKNPHYS213ReviewSession1AnswersFA19.txt),
 [SP19](/assets/files/HKNPHYS213ReviewSession1SP19.pptx),
@@ -177,6 +178,7 @@ PHYS 212 -
 PHYS 214 - -->
 
 ECE 110 -
+[SP21](/assets/files/HKNECE110ReviewSession2SP21.pptx),
 [FA20](/assets/files/HKNECE110ReviewSession2FA20.pptx),
 [FA19](/assets/files/HKNECE110ReviewSession2FA19.pptx),
 [SP19](/assets/files/HKNECE110ReviewSession2SP19.pdf),
@@ -187,6 +189,7 @@ ECE 110 -
 [SP18 Solutions](/assets/files/HKNECE110ReviewSession2SP18_handout_soln.pdf)
 
 ECE 120 -
+[SP21](/assets/files/HKNECE120ReviewSession2SP2021.pptx),
 [FA20](/assets/files/HKNECE120ReviewSession2FA20.pptx),
 [FA19](/assets/files/HKNECE120ReviewSession2FA19.pptx),
 [FA18](/assets/files/HKNECE120ReviewSession2FA18.pptx),
@@ -196,6 +199,7 @@ ECE 120 -
 [FA16](/assets/files/HKNECE120ReviewSession2FA16.pdf)
 
 ECE 210 -
+[SP21](/assets/files/HKNECE210ReviewSession2SP2021.pptx),
 [FA20](/assets/files/HKNECE210ReviewSession2FA2020.pptx),
 [FA19](/assets/files/HKNECE210ReviewSession2FA19.pptx),
 [SP19](/assets/files/HKNECE210ReviewSession2SP19.pptx),
@@ -205,6 +209,7 @@ ECE 210 -
 [FA16](/assets/files/HKNECE210ReviewSession2FA16.pdf)
 
 ECE 220 -
+[SP21](/assets/files/HKNECE220ReviewSession2SP21.pptx),
 [SP20](/assets/files/HKNECE220ReviewSession2SP20.pptx),
 [FA19](/assets/files/HKNECE220ReviewSession2FA19.pptx),
 [SP19](/assets/files/HKNECE220ReviewSession2FA181.pptx),
@@ -214,6 +219,8 @@ ECE 220 -
 [FA16](/assets/files/HKNECE220ReviewSession2FA16.pdf)
 
 ECE 310 -
+[SP21](/assets/files/HKNECE310ReviewSession2SP20.pdf),
+[SP21 Solutions](/assets/files/HKN_ECE_310_Exam_2_Review_Session_Solutions.pdf),
 [FA20 Video](https://drive.google.com/file/d/1Fna0tsjwDNBP5oexHm62YdssaNep04cC/view?ts=5f9f4fca),
 [FA20](/assets/files/HKN_ECE_310_Exam_2_Review_Session_Solutions.pdf),
 [SP20](/assets/files/HKNECE310ReviewSession2SP20.pdf),
@@ -234,6 +241,7 @@ ECE 313 -
 [FA16](/assets/files/HKNECE313ReviewSession2FA16.pdf)
 
 ECE 329 -
+[SP21](/assets/files/HKNECE329ReviewSession2SP21.pdf),
 [FA20](https://illinois.zoom.us/rec/play/j9HxQYXH8VWUyTsjfzSQpw9BgYIfGytY-7qx_56dhfA8G-kXjm5Bz0Nf1BIKJ6Pm21Rd-z-vi5Viw-W5.RLKMuQzWetFrZYuT?continueMode=true&_x_zm_rtaid=lZtuntFjS9uYz3SshuQpTw.1603040583695.1725814af4b5f835f0ac2e3fb28165e5&_x_zm_rhtaid=909)
 [FA19](/assets/files/HKNECE329ReviewSession2FA19.pptx),
 [SP19](/assets/files/HKNECE329ReviewSession2SP19.pptx),
@@ -266,6 +274,7 @@ ECE 411 -
 [FA20](/assets/files/HKNECE411ReviewSession2FA20.pdf)
 
 CS 374 -
+[SP21](/assets/files/HKNCS374ReviewSession2SP21.pdf),
 [SP19](/assets/files/HKNCS374ReviewSession1SP19.pdf),
 [FA18](/assets/files/HKNCS374ReviewSession2FA18.pdf),
 [SP18](/assets/files/HKNCS374ReviewSession2SP18.pdf)
