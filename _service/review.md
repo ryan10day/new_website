@@ -275,6 +275,7 @@ ECE 411 -
 [FA20](/assets/files/HKNECE411ReviewSession2FA20.pdf)
 
 CS 374 -
+[SP21](/assets/files/HKNCS374ReviewSession2SP21.pdf),
 [SP19](/assets/files/HKNCS374ReviewSession1SP19.pdf),
 [FA18](/assets/files/HKNCS374ReviewSession2FA18.pdf),
 [SP18](/assets/files/HKNCS374ReviewSession2SP18.pdf)
