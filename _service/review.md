@@ -130,7 +130,6 @@ ECE 340 -
 [FA19 Questions](/assets/files/HKNECE340ReviewSession1QuestionsFA19.pdf)
 
 ECE 342 -
-[SP21](/assets/files/HKNECE342ReviewSession1SP21.pptx),
 [FA20](/assets/files/HKNECE342ReviewSession1fa20.pptx),
 [SP20](/assets/files/HKNECE342ReviewSession1SP20.pptx),
 [FA19](/assets/files/HKNECE342ReviewSession1FA19.pptx),
