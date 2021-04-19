@@ -313,7 +313,7 @@ ECE 120 -
 [FA16](/assets/files/HKNECE120ReviewSession3FA16.pdf)
 
 ECE 210 -
-[FA21](/assets/files/HKNECE210ReviewSession3FA21.pdf),
+[FA21](/assets/files/HKNECE210ReviewSession3SP21.pdf),
 [FA19](/assets/files/HKNECE210ReviewSession3FA19.pptx),
 [SP19](/assets/files/HKNECE210ReviewSession3SP19.pptx),
 [FA18](/assets/files/HKNECE210ReviewSession3FA18.pptx),
@@ -329,7 +329,7 @@ ECE 210 -
 <!-- ECE 313 - -->
 
 ECE 329 -
-[FA21](/assets/files/HKNECE329ReviewSession3FA21.pptx),
+[FA21](/assets/files/HKNECE329ReviewSession3SP21.pptx),
 [FA19](/assets/files/HKNECE329ReviewSession3FA19.pptx),
 [SP19](/assets/files/HKNECE329ReviewSession3SP19.pptx),
 [SP18](/assets/files/HKNECE329ReviewSession3SP18.zip),
