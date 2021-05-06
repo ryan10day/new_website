@@ -293,7 +293,7 @@ PHYS 212 -
 <!-- PHYS 214 - -->
 
 ECE 110 -
-[SP20](/assets/files/HKNECE110ReviewSession3SP21.pptx),
+[SP21](/assets/files/HKNECE110ReviewSession3SP21.pptx),
 [SP20](/assets/files/HKNECE110ReviewSession3SP20_handout.pdf),
 [SP19](/assets/files/HKNECE110ReviewSession3SP18.pdf),
 [SP19 Solutions](/assets/files/HKNECE110ReviewSession3SP18_handout_soln.pdf),
