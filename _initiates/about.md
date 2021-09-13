@@ -22,7 +22,7 @@ Soon, former initiates might come up looking for their membership certificates d
 
 Points Spreadsheet
 ---
-Check out your point totals [over here](https://docs.google.com/spreadsheets/d/1XXNtPvauJIu3mCULM4c4nShHS-ZKw_wBls6JgSu4iAU/edit?usp=sharing)!
+Check out your point totals [over here](https://docs.google.com/spreadsheets/d/1-vFqZWU5_jZBiBSmeTmxxdVoKF5vAgcARhD0bdFXQRI/edit#gid=0)!
 
 If they are not up to date, be sure to e-mail Liz!
 
