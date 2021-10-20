@@ -13,4 +13,4 @@ env:
 before_install:
 # - openssl aes-256-cbc -K $encrypted_5722a4a44b23_key -iv $encrypted_5722a4a44b23_iv
 #   -in .deploy_key.enc -out .deploy_key -d
-- chmod 600 .deploy_key
+# - chmod 600 .deploy_key
